@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?><LearningObjectInfo>
+    <UID>ric-prod_900380</UID>
+    <uuid>2fd8da55-59e6-4a67-b927-c5b6ad18922e</uuid>
+    <ID>900380</ID>
+    <timestamp>2024-01-17T19:18Z</timestamp>
+    <mediaURL/>
+    <name>PH_M5_TW3_intro (5 parts)</name>
+    <xmls/>
+    <screens>
+        <screen>
+            <uuid>e71436e7-fa9d-4301-8a2b-8d25b8753cb9</uuid>
+            <name>cat1458291.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>0</maximumscore>
+            <activity-estimated-duration>6.264</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>383788</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>383943</identifier>
+                    <type>audio</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_34 Presentation</activityTypeName>
+        </screen>
+        <screen>
+            <uuid>b9b76cac-4ff9-48fc-bb6f-c7ccec9dee94</uuid>
+            <name>cat1463964.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>0</maximumscore>
+            <activity-estimated-duration>6.264</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>383947</identifier>
+                    <type>audio</type>
+                </resource>
+                <resource>
+                    <identifier>383792</identifier>
+                    <type>image</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_34 Presentation</activityTypeName>
+        </screen>
+        <screen>
+            <uuid>fd03eae6-7340-4a2d-93bb-c5ab197c39a6</uuid>
+            <name>cat1463966.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>0</maximumscore>
+            <activity-estimated-duration>6.264</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>383945</identifier>
+                    <type>audio</type>
+                </resource>
+                <resource>
+                    <identifier>383789</identifier>
+                    <type>image</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_34 Presentation</activityTypeName>
+        </screen>
+        <screen>
+            <uuid>aea820fd-981b-4ef7-8caa-72f1dca513d2</uuid>
+            <name>cat1463967.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>0</maximumscore>
+            <activity-estimated-duration>6.264</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>383944</identifier>
+                    <type>audio</type>
+                </resource>
+                <resource>
+                    <identifier>383790</identifier>
+                    <type>image</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_34 Presentation</activityTypeName>
+        </screen>
+        <screen>
+            <uuid>ee39071b-0dd4-453c-a4d4-df4d215c9919</uuid>
+            <name>cat1463970.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>0</maximumscore>
+            <activity-estimated-duration>6.264</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>383791</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>383946</identifier>
+                    <type>audio</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_34 Presentation</activityTypeName>
+        </screen>
+    </screens>
+    <metadata>
+        <lom>
+            <group name="Course + Level" order="1"/>
+            <group name="General" order="2"/>
+            <group name="Detail" order="3"/>
+        </lom>
+    </metadata>
+    <LOOptions>&lt;options data-author="options-v2"&gt;&lt;option id="383"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="433"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="430"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="051"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="341"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="311"&gt;&lt;key&gt;always&lt;/key&gt;&lt;/option&gt;&lt;option id="512"&gt;&lt;key&gt;marking_and_feedback&lt;/key&gt;&lt;/option&gt;&lt;option id="493"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="384"&gt;&lt;key&gt;{&amp;amp;quot;items&amp;amp;quot;:[{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}]}&lt;/key&gt;&lt;/option&gt;&lt;option id="373"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="547"&gt;&lt;key&gt;on&lt;/key&gt;&lt;value&gt;{&amp;amp;quot;items&amp;amp;quot;:[{&amp;amp;quot;Size&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;Stacks&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}],&amp;amp;quot;selection&amp;amp;quot;:&amp;amp;quot;on&amp;amp;quot;}&lt;/value&gt;&lt;/option&gt;&lt;option id="378"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="047"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="379"&gt;&lt;key&gt;off&lt;/key&gt;&lt;value&gt;{"items":[],"selection":"off"}&lt;/value&gt;&lt;/option&gt;&lt;option id="335"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="342"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="375"&gt;&lt;key&gt;{"items":[]}&lt;/key&gt;&lt;/option&gt;&lt;option id="432"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="025"&gt;&lt;key&gt;true&lt;/key&gt;&lt;/option&gt;&lt;option id="050"&gt;&lt;key&gt;auto&lt;/key&gt;&lt;/option&gt;&lt;option id="428"&gt;&lt;key&gt;off&lt;/key&gt;&lt;value&gt;{"items":[],"selection":"off"}&lt;/value&gt;&lt;/option&gt;&lt;option id="313"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="419"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="317"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="046"&gt;&lt;key&gt;1_point_action&lt;/key&gt;&lt;/option&gt;&lt;option id="449"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="312"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="450"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="388"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="336"&gt;&lt;key&gt;always&lt;/key&gt;&lt;/option&gt;&lt;option id="371"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="334"&gt;&lt;key&gt;always&lt;/key&gt;&lt;value&gt;{&amp;amp;quot;items&amp;amp;quot;:[{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}],&amp;amp;quot;selection&amp;amp;quot;:&amp;amp;quot;always&amp;amp;quot;}&lt;/value&gt;&lt;/option&gt;&lt;option id="352"&gt;&lt;key&gt;[]&lt;/key&gt;&lt;/option&gt;&lt;option id="315"&gt;&lt;key&gt;unlimited&lt;/key&gt;&lt;/option&gt;&lt;option id="396"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="045"&gt;&lt;key&gt;frozen&lt;/key&gt;&lt;value&gt;[]&lt;/value&gt;&lt;/option&gt;&lt;option id="421"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="024"&gt;&lt;key&gt;[]&lt;/key&gt;&lt;/option&gt;&lt;option id="351"&gt;&lt;key&gt;[]&lt;/key&gt;&lt;/option&gt;&lt;option id="380"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="381"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="385"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="391"&gt;&lt;key&gt;first&lt;/key&gt;&lt;/option&gt;&lt;option id="393"&gt;&lt;key&gt;["2","9"]&lt;/key&gt;&lt;/option&gt;&lt;option id="410"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="418"&gt;&lt;key&gt;["ebook"]&lt;/key&gt;&lt;/option&gt;&lt;option id="528"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="550"&gt;&lt;key&gt;200&lt;/key&gt;&lt;/option&gt;&lt;option id="560"&gt;&lt;key&gt;["2","9","4","5","3","6"]&lt;/key&gt;&lt;/option&gt;&lt;option id="581"&gt;&lt;key&gt;["2"]&lt;/key&gt;&lt;/option&gt;&lt;option id="582"&gt;&lt;key&gt;["2"]&lt;/key&gt;&lt;/option&gt;&lt;option id="583"&gt;&lt;key&gt;["2"]&lt;/key&gt;&lt;/option&gt;&lt;option id="584"&gt;&lt;key&gt;["2"]&lt;/key&gt;&lt;/option&gt;&lt;/options&gt;</LOOptions>
+    <skin>RichmondRDPPreschool</skin>
+    <mode>Normal</mode>
+    <title>Introduction</title>
+    <assetCDNURL>media</assetCDNURL>
+    <type>Standard</type>
+    <toolbeltServer>//avallain-toolbelt-prod.avallain.net</toolbeltServer>
+    <geoGebra>//author-engine-production.avallain.net/geogebra/v5-0-672-0/HTML5/5.0/web/</geoGebra>
+    <mathJAX>//author-engine-production.avallain.net/mathjax/2.7.1/</mathJAX>
+    <tts>
+        <voice>female-1</voice>
+        <service>https://tts.avallain.net/sync_converter</service>
+        <lang/>
+    </tts>
+    <lnrCDNURL>http://lnr-runtime-assets.s3-website-eu-west-1.amazonaws.com</lnrCDNURL>
+    <ckeditorRelative>true</ckeditorRelative>
+    <lang>en</lang>
+    <lmsApis>Console</lmsApis>
+    <maximumscore>0</maximumscore>
+    <engine>
+        <version>buckminster-42.0.0</version>
+        <downloadURL>engine/engine.zip</downloadURL>
+        <root>engine/</root>
+    </engine>
+    <designPack>
+        <version>richmond-rdp-preschool-5.1.2</version>
+        <downloadURL>//author-assets-runtime-ric.avallain.net/designpack/RichmondRDPPreschool_30414f4a66b0c4f8f18d0035be04c082</downloadURL>
+        <root>sk/</root>
+        <type>git</type>
+    </designPack>
+    <lo-estimated-duration>31.32</lo-estimated-duration>
+    <resources/>
+    <dependencies/>
+    <profiles/>
+    <assets>
+        <asset>
+            <identifier>383943</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="81024"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="audio/mpeg"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="audio"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="2591b6ffa009007c4d9eead8d7c73178"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image"/>
+                    <group name="Audio information" type="audio">
+                        <item description="Duration" title="duration" value_type="number">
+                            <value description="5.064"/>
+                        </item>
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Video information" type="video">
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document"/>
+                </lom>
+            </metadata>
+            <filename>T3.a_he_he_he.mp3</filename>
+            <name>T3.a_he_he_he.mp3</name>
+            <referenceId>S3_383943_T3_a_he_he_he.orig.mp3</referenceId>
+            <downloadURL>media/S3_383943_T3_a_he_he_he.orig.mp3</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383792</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="91436"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="e934b510e27226e0919e561715e1c513"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.19"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:12 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="letras%20para%20animar"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#899292"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:12 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>Tricky_teacher_3_ex1_we.png</filename>
+            <name>Tricky_teacher_3_ex1_we.png</name>
+            <referenceId>S3_383792_Tricky_teacher_3_ex1_we.png</referenceId>
+            <downloadURL>media/S3_383792_Tricky_teacher_3_ex1_we.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383789</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="86453"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="99465d391bd717e5556bb0b640b9354e"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.19"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:11 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="letras%20para%20animar"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#8a9292"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:11 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>Tricky_teacher_3_ex1_be.png</filename>
+            <name>Tricky_teacher_3_ex1_be.png</name>
+            <referenceId>S3_383789_Tricky_teacher_3_ex1_be.png</referenceId>
+            <downloadURL>media/S3_383789_Tricky_teacher_3_ex1_be.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383788</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="74157"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="b02807235b980c655692fb782eceb1a6"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.19"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:11 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="letras%20para%20animar"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#8a9393"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:11 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>Tricky_teacher_3_ex1_he.png</filename>
+            <name>Tricky_teacher_3_ex1_he.png</name>
+            <referenceId>S3_383788_Tricky_teacher_3_ex1_he.png</referenceId>
+            <downloadURL>media/S3_383788_Tricky_teacher_3_ex1_he.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383791</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="107376"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="8fb7dcac3054e1dbbbe81db295315f08"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.19"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:12 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="letras%20para%20animar"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#899292"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:12 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>Tricky_teacher_3_ex1_she.png</filename>
+            <name>Tricky_teacher_3_ex1_she.png</name>
+            <referenceId>S3_383791_Tricky_teacher_3_ex1_she.png</referenceId>
+            <downloadURL>media/S3_383791_Tricky_teacher_3_ex1_she.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383790</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="82419"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="f8538ae32b3f6fb242bbcd71a80dda44"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.19"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:12 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="letras%20para%20animar"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#899292"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/12 02:56:12 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="900"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="411"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>Tricky_teacher_3_ex1_me.png</filename>
+            <name>Tricky_teacher_3_ex1_me.png</name>
+            <referenceId>S3_383790_Tricky_teacher_3_ex1_me.png</referenceId>
+            <downloadURL>media/S3_383790_Tricky_teacher_3_ex1_me.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383945</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="93450"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="audio/mpeg"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="audio"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="fac07bf90cb7ad422c99fc54d4854489"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image"/>
+                    <group name="Audio information" type="audio">
+                        <item description="Duration" title="duration" value_type="number">
+                            <value description="5.064"/>
+                        </item>
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Video information" type="video">
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document"/>
+                </lom>
+            </metadata>
+            <filename>T3.c_be_be_be.mp3</filename>
+            <name>T3.c_be_be_be.mp3</name>
+            <referenceId>S3_383945_T3_c_be_be_be.orig.mp3</referenceId>
+            <downloadURL>media/S3_383945_T3_c_be_be_be.orig.mp3</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383944</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="93282"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="audio/mpeg"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="audio"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="d430595bcff8fa690e7d3f82af95e584"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image"/>
+                    <group name="Audio information" type="audio">
+                        <item description="Duration" title="duration" value_type="number">
+                            <value description="5.064"/>
+                        </item>
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Video information" type="video">
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document"/>
+                </lom>
+            </metadata>
+            <filename>T3.d_me_me_me.mp3</filename>
+            <name>T3.d_me_me_me.mp3</name>
+            <referenceId>S3_383944_T3_d_me_me_me.orig.mp3</referenceId>
+            <downloadURL>media/S3_383944_T3_d_me_me_me.orig.mp3</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383947</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="93255"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="audio/mpeg"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="audio"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="b25eab9ba2b837c446b88cd93ba34849"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image"/>
+                    <group name="Audio information" type="audio">
+                        <item description="Duration" title="duration" value_type="number">
+                            <value description="5.064"/>
+                        </item>
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Video information" type="video">
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document"/>
+                </lom>
+            </metadata>
+            <filename>T3.b_we_we_we.mp3</filename>
+            <name>T3.b_we_we_we.mp3</name>
+            <referenceId>S3_383947_T3_b_we_we_we.orig.mp3</referenceId>
+            <downloadURL>media/S3_383947_T3_b_we_we_we.orig.mp3</downloadURL>
+        </asset>
+        <asset>
+            <identifier>383946</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="93429"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="audio/mpeg"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="audio"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="4d0608250948ee20973865e93039d945"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image"/>
+                    <group name="Audio information" type="audio">
+                        <item description="Duration" title="duration" value_type="number">
+                            <value description="5.064"/>
+                        </item>
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Video information" type="video">
+                        <item description="Audio bitrate" title="audio_bitrate" value_type="integer">
+                            <value description="128000"/>
+                        </item>
+                        <item description="Audio samplerate" title="audio_samplerate" value_type="integer">
+                            <value description="48000"/>
+                        </item>
+                        <item description="Audio channels" title="audio_channels" value_type="integer">
+                            <value description="2"/>
+                        </item>
+                        <item description="Audio codec" title="audio_codec" value_type="string">
+                            <value description="ffmp3float"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document"/>
+                </lom>
+            </metadata>
+            <filename>T3.e_she_she_she.mp3</filename>
+            <name>T3.e_she_she_she.mp3</name>
+            <referenceId>S3_383946_T3_e_she_she_she.orig.mp3</referenceId>
+            <downloadURL>media/S3_383946_T3_e_she_she_she.orig.mp3</downloadURL>
+        </asset>
+    </assets>
+    <pages/>
+    <solution-pages/>
+    <audio>mp3</audio>
+    <video>mp4</video>
+    <acuda/>
+    <external-services-required/>
+    <thumbnails/>
+</LearningObjectInfo>

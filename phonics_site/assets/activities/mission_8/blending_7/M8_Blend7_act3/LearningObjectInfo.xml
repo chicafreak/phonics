@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?><LearningObjectInfo>
+    <UID>ric-prod_888915</UID>
+    <uuid>1089c126-cfb2-4ff7-a507-2e4e4ddcaead</uuid>
+    <ID>888915</ID>
+    <timestamp>2024-01-22T22:23Z</timestamp>
+    <mediaURL/>
+    <name>PH_M8_Blend7_act3 (4 parts)</name>
+    <xmls/>
+    <screens>
+        <screen>
+            <uuid>21a97f99-9482-4c96-b50e-c392e7bd21e6</uuid>
+            <name>cat1434744.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>3</maximumscore>
+            <activity-estimated-duration>1.3499999999999999</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>377939</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377936</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377935</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>363482</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377974</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377978</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377969</identifier>
+                    <type>image</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_04 Checkboxes</activityTypeName>
+        </screen>
+        <screen>
+            <uuid>c5becccc-1640-44ae-91cc-42279d9f66f0</uuid>
+            <name>cat1434746.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>3</maximumscore>
+            <activity-estimated-duration>1.3499999999999999</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>377941</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377937</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377933</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377938</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377943</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377942</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377976</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377970</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377973</identifier>
+                    <type>image</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_04 Checkboxes</activityTypeName>
+        </screen>
+        <screen>
+            <uuid>dbce6b6d-a76f-4c78-b9cd-91a56448a5fe</uuid>
+            <name>cat1434747.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>3</maximumscore>
+            <activity-estimated-duration>1.3499999999999999</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>377938</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>363483</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377933</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377941</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377937</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377980</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377972</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377977</identifier>
+                    <type>image</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_04 Checkboxes</activityTypeName>
+        </screen>
+        <screen>
+            <uuid>fb88d969-468c-44bb-a88c-da44edfc328d</uuid>
+            <name>cat1434757.xml</name>
+            <metadata>
+                <lom>
+                    <group name="Course + Level" order="1"/>
+                    <group name="General" order="2"/>
+                    <group name="Detail" order="3"/>
+                </lom>
+            </metadata>
+            <helpText/>
+            <maximumscore>3</maximumscore>
+            <activity-estimated-duration>1.3499999999999999</activity-estimated-duration>
+            <resources>
+                <resource>
+                    <identifier>377987</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377940</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377932</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377943</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377934</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377982</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377942</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377983</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377985</identifier>
+                    <type>image</type>
+                </resource>
+                <resource>
+                    <identifier>377971</identifier>
+                    <type>image</type>
+                </resource>
+            </resources>
+            <answers/>
+            <activityTypeName>MX_04 Checkboxes</activityTypeName>
+        </screen>
+    </screens>
+    <metadata>
+        <lom>
+            <group name="Course + Level" order="1"/>
+            <group name="General" order="2"/>
+            <group name="Detail" order="3"/>
+        </lom>
+    </metadata>
+    <LOOptions>&lt;options data-author="options-v2"&gt;&lt;option id="383"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="433"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="430"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="051"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="341"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="311"&gt;&lt;key&gt;always&lt;/key&gt;&lt;/option&gt;&lt;option id="512"&gt;&lt;key&gt;marking_and_feedback&lt;/key&gt;&lt;/option&gt;&lt;option id="493"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="384"&gt;&lt;key&gt;{&amp;amp;quot;items&amp;amp;quot;:[{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}]}&lt;/key&gt;&lt;/option&gt;&lt;option id="373"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="547"&gt;&lt;key&gt;on&lt;/key&gt;&lt;value&gt;{&amp;amp;quot;items&amp;amp;quot;:[{&amp;amp;quot;Size&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;Stacks&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}],&amp;amp;quot;selection&amp;amp;quot;:&amp;amp;quot;on&amp;amp;quot;}&lt;/value&gt;&lt;/option&gt;&lt;option id="378"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="047"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="379"&gt;&lt;key&gt;off&lt;/key&gt;&lt;value&gt;{"items":[],"selection":"off"}&lt;/value&gt;&lt;/option&gt;&lt;option id="335"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="342"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="375"&gt;&lt;key&gt;{"items":[]}&lt;/key&gt;&lt;/option&gt;&lt;option id="432"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="025"&gt;&lt;key&gt;true&lt;/key&gt;&lt;/option&gt;&lt;option id="050"&gt;&lt;key&gt;auto&lt;/key&gt;&lt;/option&gt;&lt;option id="428"&gt;&lt;key&gt;off&lt;/key&gt;&lt;value&gt;{"items":[],"selection":"off"}&lt;/value&gt;&lt;/option&gt;&lt;option id="313"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="419"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="317"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="046"&gt;&lt;key&gt;1_point_action&lt;/key&gt;&lt;/option&gt;&lt;option id="449"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="312"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="450"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="388"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="336"&gt;&lt;key&gt;always&lt;/key&gt;&lt;/option&gt;&lt;option id="371"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="334"&gt;&lt;key&gt;always&lt;/key&gt;&lt;value&gt;{&amp;amp;quot;items&amp;amp;quot;:[{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;},{&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;&amp;amp;quot;}],&amp;amp;quot;selection&amp;amp;quot;:&amp;amp;quot;always&amp;amp;quot;}&lt;/value&gt;&lt;/option&gt;&lt;option id="352"&gt;&lt;key&gt;[]&lt;/key&gt;&lt;/option&gt;&lt;option id="315"&gt;&lt;key&gt;unlimited&lt;/key&gt;&lt;/option&gt;&lt;option id="396"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="045"&gt;&lt;key&gt;frozen&lt;/key&gt;&lt;value&gt;[]&lt;/value&gt;&lt;/option&gt;&lt;option id="421"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="024"&gt;&lt;key&gt;[]&lt;/key&gt;&lt;/option&gt;&lt;option id="351"&gt;&lt;key&gt;[]&lt;/key&gt;&lt;/option&gt;&lt;option id="380"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="381"&gt;&lt;key&gt;false&lt;/key&gt;&lt;/option&gt;&lt;option id="385"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="391"&gt;&lt;key&gt;first&lt;/key&gt;&lt;/option&gt;&lt;option id="393"&gt;&lt;key&gt;["2","9"]&lt;/key&gt;&lt;/option&gt;&lt;option id="410"&gt;&lt;key&gt;off&lt;/key&gt;&lt;/option&gt;&lt;option id="418"&gt;&lt;key&gt;["ebook"]&lt;/key&gt;&lt;/option&gt;&lt;option id="528"&gt;&lt;key&gt;on&lt;/key&gt;&lt;/option&gt;&lt;option id="550"&gt;&lt;key&gt;200&lt;/key&gt;&lt;/option&gt;&lt;option id="560"&gt;&lt;key&gt;["2","9","4","5","3","6"]&lt;/key&gt;&lt;/option&gt;&lt;option id="581"&gt;&lt;key&gt;["2"]&lt;/key&gt;&lt;/option&gt;&lt;option id="582"&gt;&lt;key&gt;["2"]&lt;/key&gt;&lt;/option&gt;&lt;option id="583"&gt;&lt;key&gt;["2"]&lt;/key&gt;&lt;/option&gt;&lt;option id="584"&gt;&lt;key&gt;["2"]&lt;/key&gt;&lt;/option&gt;&lt;/options&gt;</LOOptions>
+    <skin>RichmondRDPPreschool</skin>
+    <mode>Normal</mode>
+    <title>Activity 3</title>
+    <assetCDNURL>media</assetCDNURL>
+    <type>Standard</type>
+    <toolbeltServer>//avallain-toolbelt-prod.avallain.net</toolbeltServer>
+    <geoGebra>//author-engine-production.avallain.net/geogebra/v5-0-672-0/HTML5/5.0/web/</geoGebra>
+    <mathJAX>//author-engine-production.avallain.net/mathjax/2.7.1/</mathJAX>
+    <tts>
+        <voice>female-1</voice>
+        <service>https://tts.avallain.net/sync_converter</service>
+        <lang/>
+    </tts>
+    <lnrCDNURL>http://lnr-runtime-assets.s3-website-eu-west-1.amazonaws.com</lnrCDNURL>
+    <ckeditorRelative>true</ckeditorRelative>
+    <lang>en</lang>
+    <lmsApis>Console</lmsApis>
+    <maximumscore>12</maximumscore>
+    <engine>
+        <version>buckminster-42.0.0</version>
+        <downloadURL>engine/engine.zip</downloadURL>
+        <root>engine/</root>
+    </engine>
+    <designPack>
+        <version>richmond-rdp-preschool-5.1.2</version>
+        <downloadURL>//author-assets-runtime-ric.avallain.net/designpack/RichmondRDPPreschool_5a464261534bdd3177f458eb2288466a</downloadURL>
+        <root>sk/</root>
+        <type>git</type>
+    </designPack>
+    <lo-estimated-duration>5.3999999999999995</lo-estimated-duration>
+    <resources/>
+    <dependencies/>
+    <profiles/>
+    <assets>
+        <asset>
+            <identifier>377985</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="4205"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="be3ccae39efd88c370e871f01ba3ed43"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:47:34 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:48:55 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#002636"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:47:34 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:48:55 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_sister_b.png</filename>
+            <name>FHP_L48_ex4_sister_b.png</name>
+            <referenceId>S3_377985_FHP_L48_ex4_sister_b.png</referenceId>
+            <downloadURL>media/S3_377985_FHP_L48_ex4_sister_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377987</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="222896"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="a1694b32249624e080e3a29753c6ca39"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 04:22:29 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2245489421"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Fingerton stock"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#cea69a"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 04:22:29 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Fingerton stock"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_sister.png</filename>
+            <name>FHP_L48_ex4_sister.png</name>
+            <referenceId>S3_377987_FHP_L48_ex4_sister.png</referenceId>
+            <downloadURL>media/S3_377987_FHP_L48_ex4_sister.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377933</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="155475"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="7284e9e1b2199b1b9cf30b1804f34169"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:35 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="3D%20kid%20avatar%20set%2C%20cute%20face%20smile%20child%20icon%2C%20vector%20young%20school%20teen%20boy%20girl%20cartoon%20character.%20Diverse%20kindergarten%20head%20collection%2C%20happy%20student%20team%20portrait%20profile%20clipart.%20Kid%20avatar%20kit"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Igor"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#84634d"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:35 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Igor"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_hair.png</filename>
+            <name>FHP_L48_ex4_hair.png</name>
+            <referenceId>S3_377933_FHP_L48_ex4_hair.png</referenceId>
+            <downloadURL>media/S3_377933_FHP_L48_ex4_hair.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377932</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="120795"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="537550da7fbb079d88818a85a511d9df"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/15 21:09:33 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:35 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2277076305"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Juia"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#b86237"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/15 21:09:33 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:35 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Juia"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_horse.png</filename>
+            <name>FHP_L48_ex4_horse.png</name>
+            <referenceId>S3_377932_FHP_L48_ex4_horse.png</referenceId>
+            <downloadURL>media/S3_377932_FHP_L48_ex4_horse.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377935</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="175574"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="0dbf9c0726fdd939a69174693601b4e7"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:35 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="join"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#ad834a"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:35 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_join.png</filename>
+            <name>FHP_L48_ex4_join.png</name>
+            <referenceId>S3_377935_FHP_L48_ex4_join.png</referenceId>
+            <downloadURL>media/S3_377935_FHP_L48_ex4_join.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377934</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="117707"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="a50e8dbef263fe57af52e43446a67538"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/07 20:22:14 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:35 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2150291669"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Qeeraw"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#dd9e59"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/07 20:22:14 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:35 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Qeeraw"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_letter.png</filename>
+            <name>FHP_L48_ex4_letter.png</name>
+            <referenceId>S3_377934_FHP_L48_ex4_letter.png</referenceId>
+            <downloadURL>media/S3_377934_FHP_L48_ex4_letter.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377941</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="111582"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="c033d6c8639e99a340e913d1f7bf33fd"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:37 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2249381611"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="March Manawan"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#d4c4be"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:37 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="March Manawan"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_ear.png</filename>
+            <name>FHP_L48_ex4_ear.png</name>
+            <referenceId>S3_377941_FHP_L48_ex4_ear.png</referenceId>
+            <downloadURL>media/S3_377941_FHP_L48_ex4_ear.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377940</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="255988"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="f3e4ecb65c265440f8cc3f41dedf5e01"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/16 16:34:14 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:37 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2274132273"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Arth Kanjiya"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#d97f3d"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/16 16:34:14 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:37 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Arth Kanjiya"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_burger.png</filename>
+            <name>FHP_L48_ex4_burger.png</name>
+            <referenceId>S3_377940_FHP_L48_ex4_burger.png</referenceId>
+            <downloadURL>media/S3_377940_FHP_L48_ex4_burger.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377943</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="187464"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="42e81e88ea52ae653118b55c208a27a3"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/08 02:06:42 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:37 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="year%20back"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#cdbcd0"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/08 02:06:42 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:37 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_year.png</filename>
+            <name>FHP_L48_ex4_year.png</name>
+            <referenceId>S3_377943_FHP_L48_ex4_year.png</referenceId>
+            <downloadURL>media/S3_377943_FHP_L48_ex4_year.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377942</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="127918"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="d8d80759951a7774f4c011b566ec15d3"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:37 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="81663646"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Gouraud Studio"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#ec8b6e"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:37 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Gouraud Studio"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_her.png</filename>
+            <name>FHP_L48_ex4_her.png</name>
+            <referenceId>S3_377942_FHP_L48_ex4_her.png</referenceId>
+            <downloadURL>media/S3_377942_FHP_L48_ex4_her.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377937</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="213257"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="c611fd6e38147b18d09b2c80e8cb2437"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:36 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2172100913"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="bankbee"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#cca4a3"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:36 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="bankbee"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_near.png</filename>
+            <name>FHP_L48_ex4_near.png</name>
+            <referenceId>S3_377937_FHP_L48_ex4_near.png</referenceId>
+            <downloadURL>media/S3_377937_FHP_L48_ex4_near.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377936</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="135639"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="6a5041bebf01751187d2769fe3f539bd"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:36 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2343568155"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="ArtHub02"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#cdb476"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:36 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="ArtHub02"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_oil.png</filename>
+            <name>FHP_L48_ex4_oil.png</name>
+            <referenceId>S3_377936_FHP_L48_ex4_oil.png</referenceId>
+            <downloadURL>media/S3_377936_FHP_L48_ex4_oil.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377939</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="250496"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="e83ab63fcac19186d43db24c4d861b6b"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:36 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#304d73"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:36 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_boil.png</filename>
+            <name>FHP_L48_ex4_boil.png</name>
+            <referenceId>S3_377939_FHP_L48_ex4_boil.png</referenceId>
+            <downloadURL>media/S3_377939_FHP_L48_ex4_boil.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377938</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="216560"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="cf02760d036ed292d20ad037318b97cc"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/08 18:29:34 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:36 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2375695345"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="triple-t-3dsign"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#a8b693"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/11/08 18:29:34 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 03:15:36 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="triple-t-3dsign"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_pair.png</filename>
+            <name>FHP_L48_ex4_pair.png</name>
+            <referenceId>S3_377938_FHP_L48_ex4_pair.png</referenceId>
+            <downloadURL>media/S3_377938_FHP_L48_ex4_pair.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>363483</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="117165"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="202c05e64fa440230be8e266d81f03a6"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/09/14 03:20:29 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2309476757"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Imachizi Art"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#d39bcc"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/09/14 03:20:29 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="Imachizi Art"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_continued_L48_ex4_chair_b.png</filename>
+            <name>FHP_continued_L48_ex4_chair_b.png</name>
+            <referenceId>S3_363483_FHP_continued_L48_ex4_chair_b.png</referenceId>
+            <downloadURL>media/S3_363483_FHP_continued_L48_ex4_chair_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>363482</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="169795"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="98ccb50b96d45a1a723043b57ed6598e"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/09/14 03:20:29 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="179133701"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="egg design"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#6c3613"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/09/14 03:20:29 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="egg design"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_continued_L48_ex4_brown_b.png</filename>
+            <name>FHP_continued_L48_ex4_brown_b.png</name>
+            <referenceId>S3_363482_FHP_continued_L48_ex4_brown_b.png</referenceId>
+            <downloadURL>media/S3_363482_FHP_continued_L48_ex4_brown_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377973</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="4101"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="06e31d35dddde3d2e60e2ff3afe27628"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:42:53 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:44:06 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#003349"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:42:53 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:44:06 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_near_b.png</filename>
+            <name>FHP_L48_ex4_near_b.png</name>
+            <referenceId>S3_377973_FHP_L48_ex4_near_b.png</referenceId>
+            <downloadURL>media/S3_377973_FHP_L48_ex4_near_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377972</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="4169"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="db1312963ee93582b03d8cbabdf32757"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:44:46 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:47:01 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#00354b"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:44:46 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:47:01 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_chair_b.png</filename>
+            <name>FHP_L48_ex4_chair_b.png</name>
+            <referenceId>S3_377972_FHP_L48_ex4_chair_b.png</referenceId>
+            <downloadURL>media/S3_377972_FHP_L48_ex4_chair_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377974</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="3226"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="20fda123c4b2c1ffe4ef3bcef27d0bf2"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:39:42 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:41:52 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#003145"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:39:42 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:41:52 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_oil_b.png</filename>
+            <name>FHP_L48_ex4_oil_b.png</name>
+            <referenceId>S3_377974_FHP_L48_ex4_oil_b.png</referenceId>
+            <downloadURL>media/S3_377974_FHP_L48_ex4_oil_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377969</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="3669"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="5f5ee16b05355dbaa5af0cfc3d56b4c0"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:40:05 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:41:52 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#002839"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:40:05 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:41:52 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_join_b.png</filename>
+            <name>FHP_L48_ex4_join_b.png</name>
+            <referenceId>S3_377969_FHP_L48_ex4_join_b.png</referenceId>
+            <downloadURL>media/S3_377969_FHP_L48_ex4_join_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377971</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="3534"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="e253daac04c7b70489591636cbed7ee3"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:47:44 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:48:54 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#002434"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:47:44 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:48:54 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_letter_b.png</filename>
+            <name>FHP_L48_ex4_letter_b.png</name>
+            <referenceId>S3_377971_FHP_L48_ex4_letter_b.png</referenceId>
+            <downloadURL>media/S3_377971_FHP_L48_ex4_letter_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377970</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="3881"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="4a8b096d715ffdbff039319731d3de96"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:42:43 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:44:06 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#003951"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:42:43 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:44:06 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_ear-b.png</filename>
+            <name>FHP_L48_ex4_ear-b.png</name>
+            <referenceId>S3_377970_FHP_L48_ex4_ear-b.png</referenceId>
+            <downloadURL>media/S3_377970_FHP_L48_ex4_ear-b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377980</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="3538"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="838cf9d9dc63ba4d0a3061f6ac63b579"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:44:38 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:47:01 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#002e41"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:44:38 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:47:01 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_hair_b.png</filename>
+            <name>FHP_L48_ex4_hair_b.png</name>
+            <referenceId>S3_377980_FHP_L48_ex4_hair_b.png</referenceId>
+            <downloadURL>media/S3_377980_FHP_L48_ex4_hair_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377983</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="3857"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="7d7a655dc89dc93614e15a96db6ce2e4"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 04:22:29 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#002130"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 04:22:29 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_flower_b.png</filename>
+            <name>FHP_L48_ex4_flower_b.png</name>
+            <referenceId>S3_377983_FHP_L48_ex4_flower_b.png</referenceId>
+            <downloadURL>media/S3_377983_FHP_L48_ex4_flower_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377982</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="86308"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="89e450fb6cd8f763c1bce8f85a7fb2c2"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="1"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 04:22:29 GMT"/>
+                        </item>
+                        <item description="Title" title="title" value_type="string">
+                            <value description="2281651865"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="MITstudio"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#a8a531"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/11/17 04:22:29 GMT"/>
+                        </item>
+                        <item description="Device software" title="device_software" value_type="string">
+                            <value description="Adobe ImageReady"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="500"/>
+                        </item>
+                        <item description="Creator" title="creator" value_type="string">
+                            <value description="MITstudio"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_flower.png</filename>
+            <name>FHP_L48_ex4_flower.png</name>
+            <referenceId>S3_377982_FHP_L48_ex4_flower.png</referenceId>
+            <downloadURL>media/S3_377982_FHP_L48_ex4_flower.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377977</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="3833"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="9dd80911d2d9ebaac70db930323339c6"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:44:53 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:47:02 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#002b3e"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:44:53 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:47:02 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_pair_b.png</filename>
+            <name>FHP_L48_ex4_pair_b.png</name>
+            <referenceId>S3_377977_FHP_L48_ex4_pair_b.png</referenceId>
+            <downloadURL>media/S3_377977_FHP_L48_ex4_pair_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377976</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="4644"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="dcf28e6d30ef9b91fc2557879d6e7349"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:42:34 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2024/01/17 18:04:34 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#00384f"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:42:34 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2024/01/17 18:04:34 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_year_b.png</filename>
+            <name>FHP_L48_ex4_year_b.png</name>
+            <referenceId>S3_377976_FHP_L48_ex4_year_b.png</referenceId>
+            <downloadURL>media/S3_377976_FHP_L48_ex4_year_b.png</downloadURL>
+        </asset>
+        <asset>
+            <identifier>377978</identifier>
+            <metadata>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Empty Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="Common"/>
+                </lom>
+                <lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="accordion" xsi:noNamespaceSchemaLocation="lom.xsd">
+                    <group name="File information" type="binary">
+                        <item description="Size" title="size" value_type="integer">
+                            <value description="3870"/>
+                        </item>
+                        <item description="Mime" title="mime" value_type="string">
+                            <value description="image/png"/>
+                        </item>
+                        <item description="Type" title="type" value_type="string">
+                            <value description="image"/>
+                        </item>
+                        <item description="Md5 hash" title="md5hash" value_type="string">
+                            <value description="db5ef98c326f4987fbe9c99fdcc05e33"/>
+                        </item>
+                    </group>
+                    <group name="Image information" type="image">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Aspect ratio" title="aspect_ratio" value_type="string">
+                            <value description="2.747"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:39:53 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:41:53 GMT"/>
+                        </item>
+                        <item description="Frame count" title="frame_count" value_type="integer">
+                            <value description="1"/>
+                        </item>
+                        <item description="Colorspace" title="colorspace" value_type="string">
+                            <value description="RGB"/>
+                        </item>
+                        <item description="has_clipping_path" title="has_clipping_path" value_type="boolean">
+                            <value description="false"/>
+                        </item>
+                        <item description="Average color" title="average_color" value_type="string">
+                            <value description="#002636"/>
+                        </item>
+                    </group>
+                    <group name="Audio information" type="audio"/>
+                    <group name="Video information" type="video">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                        <item description="Date file created" title="date_file_created" value_type="string">
+                            <value description="2023/12/07 20:39:53 GMT"/>
+                        </item>
+                        <item description="Date file modified" title="date_file_modified" value_type="string">
+                            <value description="2023/12/07 20:41:53 GMT"/>
+                        </item>
+                    </group>
+                    <group name="Document information" type="document">
+                        <item description="Width" title="width" value_type="number">
+                            <value description="272"/>
+                        </item>
+                        <item description="Height" title="height" value_type="number">
+                            <value description="99"/>
+                        </item>
+                    </group>
+                </lom>
+            </metadata>
+            <filename>FHP_L48_ex4_boil_b.png</filename>
+            <name>FHP_L48_ex4_boil_b.png</name>
+            <referenceId>S3_377978_FHP_L48_ex4_boil_b.png</referenceId>
+            <downloadURL>media/S3_377978_FHP_L48_ex4_boil_b.png</downloadURL>
+        </asset>
+    </assets>
+    <pages/>
+    <solution-pages/>
+    <audio>mp3</audio>
+    <video>mp4</video>
+    <acuda/>
+    <external-services-required/>
+    <thumbnails/>
+</LearningObjectInfo>

@@ -1,271 +1,1025 @@
 <!doctype html>
 <html lang="en" data-bs-theme="auto">
-  <head><script src="../assets/js/color-modes.js"></script>
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta name="generator" content="">
-    <title>Phonics</title>
+<head>
 
-<link href="assets/css/bootstrap.min.css" rel="stylesheet">
-<link href="assets/css/phonics.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Astro Phonics, CAN">
+  <meta name="author" content="Richmond Solution">
+  <meta name="generator" content="Karina Cruz, Manuel Franco">
+  <link rel="shortcut icon" type="image/png" href="assets/images/ico-rich.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&display=swap" rel="stylesheet">
+  <title>Astro Phonics</title>
 
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/phonics.css" rel="stylesheet">
+  <link href="assets/css/graphema.css" rel="stylesheet">
+ 
   
+</head>
 
-    
-  </head>
-  <body>
+<body class="container-fluid">
+
+  <!--Modal inicio video-->
+
+  <div id="mainModal" class="modal" tabindex="-1">
+    <div class="w-100 h-100 d-flex justify-content-center align-items-center">
+      <div id ="mainVideoContainer" class="modal-dialog modal-lg  modal-dialog-centered d-flex justify-content-center">
+        <div id="mainModalContent" class="modal-content">
+          <div class="modal-header">
+            <button id="xFirstModal" type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
   
+          <div id="mainVideoPanel" class="modal-body">
+            <video src="assets/video/video_phonics.mp4" class="video object-fit-contain border rounded"
+              poster="assets/images/logo_r.png" controls></video>
+  
+          </div>
+  
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="modalBackground" class="modal-backdrop fade"></div>
+  <!--TERMINA MODAL-->
+
+  <!--HOME-->
+  <div id="mainScreen" class="back_home">
     
-<main>
-  <div class="container py-4">
-    <header class="pb-3 mb-4 border-bottom">
-      <a href="/" class="d-flex align-items-center text-body-emphasis text-decoration-none">
-        
-        <span class="p-2 fs-4">Welcome!</span>
+    <header class=" m-2">
+      <a id="mainVideoButtonContainer" class="d-flex align-items-center text-body-emphasis text-decoration-none">
+        <img id="mainVideoButton" src="assets/images/btns/play.svg" class="icons img-fluid">
       </a>
-    </header>
-
-    <div class="p-5 mb-4 bg-body-tertiary rounded-3 text-center">
-      <div class="container-fluid py-5">
-        <h1 class="display-5 fw-bold">
-          <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M398.3 3.4c-15.8-7.9-35-1.5-42.9 14.3c-7.9 15.8-1.5 34.9 14.2 42.9l.4 .2c.4 .2 1.1 .6 2.1 1.2c2 1.2 5 3 8.7 5.6c7.5 5.2 17.6 13.2 27.7 24.2C428.5 113.4 448 146 448 192c0 17.7 14.3 32 32 32s32-14.3 32-32c0-66-28.5-113.4-56.5-143.7C441.6 33.2 427.7 22.2 417.3 15c-5.3-3.7-9.7-6.4-13-8.3c-1.6-1-3-1.7-4-2.2c-.5-.3-.9-.5-1.2-.7l-.4-.2-.2-.1-.1 0 0 0c0 0 0 0-14.3 28.6L398.3 3.4zM128.7 227.5c6.2-56 53.7-99.5 111.3-99.5c61.9 0 112 50.1 112 112c0 29.3-11.2 55.9-29.6 75.9c-17 18.4-34.4 45.1-34.4 78V400c0 26.5-21.5 48-48 48c-17.7 0-32 14.3-32 32s14.3 32 32 32c61.9 0 112-50.1 112-112v-6.1c0-9.8 5.4-21.7 17.4-34.7C398.3 327.9 416 286 416 240c0-97.2-78.8-176-176-176C149.4 64 74.8 132.5 65.1 220.5c-1.9 17.6 10.7 33.4 28.3 35.3s33.4-10.7 35.3-28.3zM32 512a32 32 0 1 0 0-64 32 32 0 1 0 0 64zM192 352a32 32 0 1 0 -64 0 32 32 0 1 0 64 0zM41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3l64 64c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-64-64c-12.5-12.5-32.8-12.5-45.3 0zM208 240c0-17.7 14.3-32 32-32s32 14.3 32 32c0 13.3 10.7 24 24 24s24-10.7 24-24c0-44.2-35.8-80-80-80s-80 35.8-80 80c0 13.3 10.7 24 24 24s24-10.7 24-24z"/></svg>
-          PHONICS</h1>
-        
-        <p class="fs-4">Descripción breve del desarrollo</p>
-        <button class="btn btn-primary btn-lg" type="button">Enter</button>
-      </div>
-    </div>
-
-    <div class="row p-2 mb-2 bg-body-emphasis rounden-3 text-end">
-      <div class="col">
-        <button class="btn btn-lg btn-success">Diccionary</button>
-      </div>  
-      
-    </div>
-
-
-    <!--pagina 1-->
-
-    <div class="container bg-body-tertiary" style="visibility: hidden;">
-      <!--MENU-->
-      <nav class="navbar navbar-expand-lg  mb-4">
-        <div class="container-fluid d-flex">
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-              <li class="nav-item mundo">
-                <a class="nav-link" aria-current="page" href="#">1</a>
-              </li>
-              <li class="nav-item mundo">
-                <a class="nav-link" href="#">2</a>
-              </li>
-              <li class="nav-item mundo">
-                <a class="nav-link" href="#">3</a>
-              </li>
-              <li class="nav-item mundo">
-                <a class="nav-link" href="#">4</a>
-              </li>
-              <li class="nav-item mundo">
-                <a class="nav-link" href="#">5</a>
-              </li>
-              <li class="nav-item mundo">
-                <a class="nav-link" href="#">6</a>
-              </li>
-              <li class="nav-item mundo">
-                <a class="nav-link" href="#">7</a>
-              </li>
-              <li class="nav-item mundo">
-                <a class="nav-link" href="#">8</a>
-              </li>
-              
-            </ul>
-            
-          </div>   
-        </div>
-
-        <div class="col justify-content-end">
-          <button class="btn">
-            <svg xmlns="http://www.w3.org/2000/svg" height="1.8em" viewBox="0 0 576 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg>
-          </button>
-      </div>
-      </nav>
-  <!--FIN MENU-->
-
-     
-            <div class="row  mb-4" >
-              <!--CARD 1 SUN-->  
-              <div class="col">
-                <div class="card" style="width: 10.5rem;" >
-                  <div class="card-body">
-                    SUN
-                  </div>
-                </div>
-              </div>
-              <!--CARD 2 Apple-->  
-              <div class="col">
-                <div class="card" style="width: 10.5rem;">
-                  <div class="card-body">
-                    Apple
-                  </div>
-                </div>
-              </div>
-              <!--CARD 3 SUN-->  
-              <div class="col">
-                <div class="card" style="width: 10.5rem;">
-                  <div class="card-body">
-                    TOUCH
-                  </div>
-                </div>
-              </div>
-              <!--CARD 4-->  
-              <div class="col">
-                <div class="card" style="width: 10.5rem;">
-                  <div class="card-body">
-                    PENCIL
-                  </div>
-                </div>
-              </div>
-              <!--CARD 5-->  
-              <div class="col">
-                <div class="card" style="width: 10.5rem;">
-                  <div class="card-body">
-                    BOX
-                  </div>
-                </div>
-              </div>
-              <!--CARD 6-->  
-              <div class="col">
-                <div class="card" style="width: 10.5rem;">
-                  <div class="card-body">
-                    NUMBERS
-                  </div>
-                </div>
-              </div>
+      <a data-bs-toggle="tooltip" data-bs-placement="right" data-bs-html="true"  data-bs-title="Click the button <img src='assets/images/tutoriales/play-2.png'/> to replay the video" class="btn estilo1" data-bs-custom-class="custom-tooltip" href="#">
+        <img src="assets/images/btns/tutorial.svg" class="tutorial img-fluid">
+      </a>
+   
   
-              <div class="col align-items-end">
-                  <div class="">
-                    <button class="btn btn-lg">
-                      <svg xmlns="http://www.w3.org/2000/svg" height="2em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"/></svg>
-                    </button>
-                  </div>
-              </div>
-                
-        </div>
+    
+    </header>
+    <div id="logoContainer"><img src="assets/images/LogoAstroPhonics_elpre.png" id="mainLogo" class="img-fluid"></div>
+    <div class=" rounded-3 text-center ">
+      <img src="assets/images/menu/personaje.png" class="astronaut_girl img-fluid">
+    </div>
+    <div class=" rounded-3 text-center d-flex justify-content-center">
+      <button id="enterButton" class="btn" type="button">
+        <img src="assets/images/btns/btn_enter.svg" class="img-fluid  btn-index">
+      </button>
+    </div>
 
-        <div class="row justify-content-end">
-          <div class="col-4">
-            <div class="card" >
-              <div class="card-body">
-                Tricky Words
+    <div class="row p-2 mb-2 bg-body-emphasis rounden-3 flex-wrap  justify-content-between">
+      <div class="col-6 d-flex align-items-center mainBottomElements">  
+          <img src="assets/images/Richmond_Logo_02.svg" class="logo_r img-fluid logoRichmond">
+      </div>
+      <div class="col-6 d-flex justify-content-end align-items-center mainBottomElements">
+        <div class="ubica1">
+          <button data-bs-toggle="tooltip" data-bs-placement="left"
+            data-bs-title="Click “Letter Locker” buttom for view the list the all phonemes" id="letLockToolTip" class="btn"
+            data-bs-custom-class="custom-tooltip" href="#">
+            <img src="assets/images/btns/tutorial.svg" class="tutorial img-fluid">
+          </button>
+        
+          <button id="enterLetter" class="btn">
+            <img src="assets/images/btns/btn_locker.svg" class="btn-locker img-fluid">
+          </button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<!--FIN HOME-->
+
+  <!--PAGINA NUEVA-->
+
+  <section id="missionScreen" class="rounded-3 mt-2">
+    <div class="row">
+      <div class="col-md-6 col-sm-12 mt-3 missionScreenHeader">
+        <div class="extraLogoContainer">
+          <img id="logoMissionScreen" src="assets/images/LogoAstroPhonics_elpre.png" class="img-fluid astroPhonicsLogo">
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-12 text-end mt-3 d-flex align-items-center justify-content-end missionScreenHeader">
+        <div class="d-inline-flex">
+          <button class="btn">
+            <img id="mission_selector_btn" src="assets/images/btns/close_padlock.svg" class="icons_padlock">
+          </button>
+        
+          <button class="btn">
+            <img id="msHomeButton" src="assets/images/btns/btn_home.svg" class="icons">
+          </button>
+          
+        </div>
+      </div>
+    </div>
+    <div class="row d-flex">
+      <!--Mision 1-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5 missionCardContainer">
+        <div class="mission">
+          <div class="brillo"></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_1.svg">
+        </div>
+        <div class="text-center mt-2">
+          <a href="assets/pdf/TeacherNotes_m1.pdf" type="download" target="_blank"><img src="assets/images/btns/btn_tg.png"
+              class="download img-fluid"></a>
+        </div>
+        <!------- Tooltips misiones -------->
+        
+        <!--VENTANA TUTORIAL misiones-->
+        
+        <div class="show_tutorial_misiones" id="tutorial_misiones">
+          <div><a href="javascript:closemisiones()"><img src="assets/images/tutoriales/close.svg" class="btn_close" /></a></div>
+        
+          <img src="assets/images/tutoriales/misiones.gif">
+        
+        </div>
+        <!--fin ventana tutorial misiones-->
+        
+        <!--icono tutorial misiones-->
+        <div class="tuto_misiones">
+          <a href="javascript:openmisiones()">
+            <img src="assets/images/btns/tutorial.svg" class="tutorial img-fluid">
+          </a>
+        </div>
+        
+        <div class="estilo3">
+          <button data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Download PDF with notes" class="btn"
+            data-bs-custom-class="custom-tooltip" href="#">
+            <img src="assets/images/btns/tutorial.svg" class="tutorial img-fluid">
+          </button>
+        </div>
+        <!------- Final Tooltips misiones -------->
+      
+        <!--<p class="grafema">A-B-C</p>-->
+      </div>
+      <!--Mision 2-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5 missionCardContainer">
+        <div class="mission">
+          <div class="brillo"></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_2.svg">
+        </div>
+        <div class="text-center mt-2">
+              <a href="assets/pdf/TeacherNotes_m2.pdf" type="download" target="_blank"><img src="assets/images/btns/btn_tg.png"
+              class="download img-fluid"></a>
+        </div>
+      </div>
+      <!--Mision 3-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5 missionCardContainer">
+        <div class="mission">
+          <div class="brillo"></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_3.svg">
+        </div>
+        <div class="text-center mt-2">
+              <a href="assets/pdf/TeacherNotes_m3.pdf" type="download" target="_blank"><img src="assets/images/btns/btn_tg.png"
+              class="download img-fluid"></a>
+        </div>
+      </div>
+      <!--Mision 4-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5 missionCardContainer">
+        <div class="mission">
+          <div class="brillo"></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_4.svg">
+        </div>
+        <div class="text-center mt-2" >
+              <a href="assets/pdf/TeacherNotes_m4.pdf" type="download" target="_blank"><img src="assets/images/btns/btn_tg.png"
+              class="download img-fluid"></a>
+        </div>
+      </div>
+
+      <!--Mision 5-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5 missionCardContainer">
+        <div class="mission">
+          <div class="brillo"></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_5.svg">
+        </div>
+        <div class="text-center mt-2">
+              <a href="assets/pdf/TeacherNotes_m5.pdf" type="download" target="_blank"><img src="assets/images/btns/btn_tg.png"
+              class="download img-fluid"></a>
+        </div>
+      </div>
+      <!--Mision 6-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5 missionCardContainer">
+        <div class="mission">
+          <div class="brillo"></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_6.svg">
+        </div>
+        <div class="text-center mt-2">
+          <a href="assets/pdf/TeacherNotes_m6.pdf" type="download" target="_blank"><img src="assets/images/btns/btn_tg.png" class="download img-fluid"></a>
+        </div>
+      </div>
+      <!--Mision 7-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5 missionCardContainer">
+        <div class="mission">
+          <div class="brillo"></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_7.svg">
+        </div>
+        <div class="text-center mt-2">
+          <a href="assets/pdf/TeacherNotes_m7.pdf" type="download" target="_blank"><img src="assets/images/btns/btn_tg.png" class="download img-fluid"></a>
+        </div>
+      </div>
+      <!--Mision 8-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5 missionCardContainer">
+        <div class="mission">
+          <div class="brillo"></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_8.svg">
+        </div>
+        <div class="text-center mt-2">
+          <a href="assets/pdf/TeacherNotes_m8.pdf" type="download" target="_blank"><img src="assets/images/btns/btn_tg.png" class="download img-fluid"></a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+   <!--Selector de misiones-->
+
+   <section id="missionSelector" class="rounded-3 mt-2" >
+    <div class="row">
+      <div class="col-md-4 col-sm-12 mt-3 missionScreenHeader">
+        <div class="extraLogoContainer">
+          <img id="logoMissionSelector" src="assets/images/LogoAstroPhonics_elpre.png" class="img-fluid astroPhonicsLogo">
+        </div>
+      </div>
+     
+      <div class="col-md-4 col-sm-12 mt-3 missionScreenHeader d-flex align-items-center justify-content-center">
+        <div class="letrero">
+          <h2 class="text-left text-light">Instructions:</h2>
+          <h4 class="text-left text-light">Select the mission you want to hide.<br>If the mission is hidden only select to activate. </h4>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-12 text-end mt-2 d-flex align-items-center justify-content-end missionScreenHeader">
+        <img id="backArrow_MS" src="assets/images/btns/open_padlock.svg" class="icons_padlock" style="margin-right: 100px; margin-top: -40px;">
+      </div>
+    </div>
+    <div class="row d-flex">
+      <!--Mision 1 Selector-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5">
+        <div class="mission_selection" data-status="enabled" data-position="1" data-oldcounter="1">
+          <div></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_1.svg">
+        </div>
+       
+      
+        <!--<p class="grafema">A-B-C</p>-->
+      </div>
+      <!--Mision 2 Selector-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5">
+        <div class="mission_selection" data-status="enabled" data-position="2" data-oldcounter="2">
+          <div></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_2.svg">
+        </div>
+      
+      </div>
+      <!--Mision 3 Selector-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5">
+        <div class="mission_selection" data-status="enabled" data-position="3" data-oldcounter="3">
+          <div></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_3.svg">
+        </div>
+       
+      </div>
+      <!--Mision 4 Selector-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5">
+        <div class="mission_selection" data-status="enabled" data-position="4" data-oldcounter="4">
+          <div></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_4.svg">
+        </div>
+       
+      </div>
+
+    </div>
+
+    <div class="row d-flex">
+
+      <!--Mision 5 Selector-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5">
+        <div class="mission_selection" data-status="enabled" data-position="5" data-oldcounter="5">
+          <div></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_5.svg">
+        </div>
+       
+      </div>
+      <!--Mision 6 Selector-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5">
+        <div class="mission_selection" data-status="enabled" data-position="6" data-oldcounter="6">
+          <div></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_6.svg">
+        </div>
+       
+      </div>
+      <!--Mision 7 Selector-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5">
+        <div class="mission_selection" data-status="enabled" data-position="7" data-oldcounter="7">
+          <div></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_7.svg">
+        </div>
+       
+      </div>
+      <!--Mision 8 Selector-->
+      <div class="col-lg-3 col-md-6 col-sm-12 p-5">
+        <div class="mission_selection" data-status="enabled" data-position="8" data-oldcounter="8">
+          <div></div>
+          <img class="img-fluid missionCard" src="assets/images/modulos/modulo_8.svg">
+        </div>
+       
+      </div>
+
+    </div>
+  </section>
+
+
+  <!--LETTER LOCKER-->
+  <section id="letterLocker" class="container-fluid rounded-3 mt-2 back_letter">
+    
+      <!--VENTANA TUTORIAL letter locker-->
+
+      <div class="show_tutorial" id="tutorial_letter">
+        <div><a href="javascript:closetutorial()"><img src="assets/images/tutoriales/close.svg" class="btn_close"/></a></div>
+          
+        <img src="assets/images/tutoriales/letter-locket-tutorial.gif">
+
+      </div>
+      <!--FIN DE VENTANA LETTER LOCKER-->
+
+  
+
+      <div class="backHome mt-3 flex-wrap">
+      <div class="extraLogoContainer mt-3">
+        <img id="logoLetLock" src="assets/images/LogoAstroPhonics_elpre.png" class="img-fluid astroPhonicsLogo">
+      </div>
+      <div class="col-md-6 col-sm-12 text-end mt-3 ">
+        <img id="ltrLkrHomeButton" src="assets/images/btns/btn_home.svg" class="icons">
+      </div>
+    </div>
+
+    <div class="text-center mb-1">
+      <h2 style="color: aliceblue; font-size: 3.5em; font-weight: bold;">LETTER LOCKER</h2>
+    </div>
+
+       <!--ICONO TUTORIAL LETTER LOCKER-->
+       <div class="centrar">
+        <a href="javascript:opentutorial()">
+          <img src="assets/images/btns/tutorial.svg" class="tutorial img-fluid">
+        </a>
+      </div>
+    <!--FIN -->
+
+    <div class="row d-inline-flex m-1 justify-content-center displayLetter">
+
+
+
+    </div>
+
+  </section>
+  <!--Mission 1-->
+
+  <!--AUTOMATIZACION DE LETRAS Y MUNDOS-->
+
+  <section id="Slider" class="">
+    <!--MENU-->
+    <nav class="navbar navbar-expand-lg  mt-2 mb-4 mt-3">
+      <div class="extraLogoContainer logoSliderContainer">
+        <img id="logoSliderScreen" src="assets/images/LogoAstroPhonics_elpre.png"  class="img-fluid sliderPhonicsLogo astroPhonicsLogo">
+      </div>
+      <div id="planetIndexContainer" class="container d-inline-flex">
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item mundo buttonIndex " data-index="1">
+              <a class="nav-link" aria-current="page"><img src="assets/images/menu/menu_1.png" class="img-fluid"></a>
+            </li>
+            <li class="nav-item mundo buttonIndex " data-index="2">
+              <a class="nav-link" aria-current="page"><img src="assets/images/menu/menu_2.png" class="img-fluid"></a>
+            </li>
+            <li class="nav-item mundo buttonIndex " data-index="3">
+              <a class="nav-link" aria-current="page"><img src="assets/images/menu/menu_3.png" class="img-fluid"></a>
+            </li>
+            <li class="nav-item mundo buttonIndex " data-index="4">
+              <a class="nav-link" aria-current="page"><img src="assets/images/menu/menu_4.png" class="img-fluid"></a>
+            </li>
+            <li class="nav-item mundo buttonIndex" data-index="5">
+              <a class="nav-link" aria-current="page"><img src="assets/images/menu/menu_5.png" class="img-fluid"></a>
+            </li>
+            <li class="nav-item mundo buttonIndex" data-index="6">
+              <a class="nav-link" aria-current="page"><img src="assets/images/menu/menu_6.png" class="img-fluid"></a>
+            </li>
+            <li class="nav-item mundo buttonIndex" data-index="7">
+              <a class="nav-link" aria-current="page"><img src="assets/images/menu/menu_7.png" class="img-fluid"></a>
+            </li>
+            <li class="nav-item mundo buttonIndex" data-index="8">
+              <a class="nav-link" aria-current="page"><img src="assets/images/menu/menu_8.png" class="img-fluid"></a>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="d-inline-flex">
+        <!-- <button class="btn">
+          <img id="#" src="assets/images/btns/btn_insignia.svg" class="icons">
+        </button> -->
+        <button class="btn">
+          <img id="backArrow" src="assets/images/btns/btn_home2.svg" class="icons">
+        </button>
+        <button class="btn">
+          <img id="homeButton" src="assets/images/btns/btn_home.svg" class="icons">
+        </button>
+
+      </div>
+    </nav>
+    <!--FIN MENU-->
+
+
+
+    <!--PAGINA 1-->
+    <div class="mb-4"  style="position:relative;display: flex; flex: 1;align-items: stretch;flex-direction: column;">
+      <div class="row g-2" style="height: 100%; width: 100%; flex: 1; margin-right:0; margin-left:0;">
+        <!--botón preview-->
+        <div id="previousBar" class="col-1 arrowSpace hoverBar">
+          <button id="previousArrow">
+            <img src="assets/images/btns/btn_prev.png" class="arrows" />
+          </button>
+        </div>
+    
+    
+        <!--fin boton next-->
+        <div class="col ">
+
+          <div>
+            <a class="btn" data-bs-toggle="tooltip" data-bs-title="Select "></a>
+          </div>
+          <div class="centrar">
+          
+            <a class="btn" href="javascript:opentutorialph()" >
+              <img src="assets/images/btns/tutorial.svg" class="tutorial img-fluid" />
+            </a>
+          </div>
+                <!--VENTANA TUTORIAL Phoneme-->
+
+      <div class="show_tutorialph" id="tutorial_phoneme">
+        <div><a href="javascript:closetutorialph()"><img src="assets/images/tutoriales/close.svg" class="btn_close"/></a></div>
+          
+        <img src="assets/images/tutoriales/tuto_phonemes.gif">
+
+      </div>
+      <!--FIN DE VENTANA PHONEME-->
+
+
+          <!--mision 1-->
+          <!--phonemas-->
+          <div class="hidden phonemeSlide">   
+            
+        
+              <div class="nave">   
+              </div> 
+                <div class="crater">   
+                </div>
+                <div class="asteroide">
+                   
+                </div>
+                <div class="estacion">
+                
+                </div>
+                <div class="vehiculo">
+                
+                </div>
+                <div class="asteroide2">
+                
+                </div>
+       
+            
+            <div class="col-adap1 muestraPhonemas"><!--fila de phonemas-->
+    
+    
+              <div>
+    
               </div>
+    
+    
+            </div>
+
+    
+            <!--INICIO TRICKY WORDS Y/O BLENDING-->
+            <div class="row justify-content-end posicion_tricky1" >
+              <div class="col-sm-12 m-2">
+                <div class="tricky1 trickySign">
+                  <p class="titulo_tricky tricky_brightness">Tricky<br>Words</p>
+                </div>
+              </div>
+    
+            </div>
+            <!--FIN TRICKY WORDS-->
+    
+          </div>
+    
+    
+          <!--fin fila de phonemas-->
+    
+    
+    
+    
+          <!--fin de mision 1-->
+    
+    
+          <!--mision 2-->
+          <!--phonemas-->
+          <div class="hidden phonemeSlide">
+            <div class="mision2_7"></div>
+            <div class="mision2_8"></div>
+            <div class="mision2_6"></div>
+            <div class="mision2_4"></div> 
+            <div class="mision2_1"></div>
+            <div class="mision2_2"></div>
+            <div class="mision2_3"></div>
+            <div class="mision2_5"></div>
+            <div class="blending_1"></div>
+            <div class="col-adap2 muestraPhonemas"><!--fila de phonemas-->
+              <div class="nave"></div>
+            </div>
+            <!--fin fila de phonemas-->
+    
+            <!--INICIO TRICKY WORDS Y/O BLENDING-->
+            <!-- <div class="row justify-content-end mt-3 posicion_tricky2">
+              <div class="">
+                <div class="trickySign">
+                  <p class="">Tricky<br>Words</p>
+                </div>
+              </div>
+            </div> -->
+
+            <div class="row justify-content-end posicion_blending1">
+              <div class="col-sm-12 m-2">
+                <div class="blendingSign">
+                  <p class="text_blending1">Blending<br />1</p>
+                </div>
+              </div>
+            </div>
+            <!--FIN TRICKY WORDS-->
+          </div>
+          <!--fin de mision 2-->
+    
+    
+          <!--mision 3-->
+          <!--phonemas-->
+          <div class="hidden phonemeSlide">
+            <div class="mision3_1"></div>
+            <div class="mision3_3"></div>
+            <div class="mision3_4"></div>
+            <div class="mision3_2"></div>  
+            <div class="mision3_7"></div>
+            <div class="mision3_6"></div>
+            <div class="mision3_5"></div>
+            
+            <div class="col-adap3 muestraPhonemas"><!--fila de phonemas-->
+    
+    
+            </div>
+            <!--fin fila de phonemas-->
+    
+            <!--INICIO TRICKY WORDS Y/O BLENDING-->
+            <div class="row justify-content-end">
+              <div class="">
+                <div class="blending2">
+                    <p class="text_blending2  blendingSign">Blending 2</p>
+                </div>
+              </div>
+            </div>
+            <!--FIN TRICKY WORDS-->
+          </div>
+          <!--fin de mision 3-->
+    
+    
+          <!--mision 4-->
+          <!--phonemas-->
+          <div class="hidden phonemeSlide">
+            <div class="mision4_2"></div> 
+            <div class="mision4_1"></div>
+            <div class="mision4_3"></div>
+            <div class="col-adap4 muestraPhonemas"><!--fila de phonemas-->
+    
+    
+            </div>
+            <!--fin fila de phonemas-->
+    
+    
+            <!--INICIO TRICKY WORDS Y/O BLENDING-->
+            <div class="row justify-content-end  posicion_tricky2 mision4_4">
+              <div class="trickySign">
+                <p class="tricky_brightness">Tricky<br>Words</p>
+              </div>
+            </div>
+            <div class="row justify-content-end  posicion_blending3 mision4_5">
+              <div class="blendingSign">
+                <p class="text_blending3">Blending 3</p>
+              </div>
+            </div>
+            <!--FIN TRICKY WORDS-->
+          </div>
+          <!--fin de mision 4-->
+    
+    
+          <!--mision 5-->
+          <!--phonemas-->
+          <div class="hidden phonemeSlide">
+            <div class="mision5_1"></div>
+            <div class="mision5_2"></div>
+            <div class="mision5_3"></div>
+            <div class="mision5_4"></div>
+            <div class="mision5_5"></div>
+            <div class="mision5_6"></div>
+            <div class="col-adap5 muestraPhonemas"><!--fila de phonemas-->
+          
+          
+            </div>
+            <!--fin fila de phonemas-->
+          
+            <!--INICIO TRICKY WORDS Y/O BLENDING-->
+            <div class="row justify-content-end posicion_tricky3">
+              <div class="burbuja_tricky">
+                <div class=" trickySign">
+                  <p class="tricky_brightness" style="margin-top: 22%;">Tricky<br>Words</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="row justify-content-end posicion_blending4">
+              <div class="img_blending4">
+                <div class="burbuja blendingSign blendingSign4 ">
+                  <p class="ubicaciontxt">Blending 4 </p>
+
+                </div>
+              </div>
+            </div>
+            <!--FIN TRICKY WORDS-->
+          </div>
+          <!--fin de mision 5-->
+    
+          <!--mision 6-->
+          <!--phonemas-->
+          <div class="hidden phonemeSlide">
+            <div class="mision6_1"></div>
+            <div class="mision6_2"></div>
+            <div class="mision6_3"></div>
+            <div class="mision6_4"></div>  
+            <div class="row col-adap6 muestraPhonemas"><!--fila de phonemas-->
+    
+            </div>
+            <!--fin fila de phonemas-->
+    
+            <!--INICIO TRICKY WORDS Y/O BLENDING-->
+            <!-- <div class="row justify-content-end posicion_tricky3">
+              <div class="">
+                <div class="trickySign">
+                  <p class="tricky_brightness">Tricky<br>Words</p>
+                </div>
+              </div>
+            </div> -->
+          
+            <div class="row justify-content-end posicion_blending5 mision6_5">
+              <div class="">
+                <div class="blendingSign blendingSign5">
+                  <p class="">Blending<br/>5</p>
+                </div>
+              </div>
+            </div>
+            <!--FIN TRICKY WORDS-->
+          </div>
+          <!--fin de mision 6-->
+    
+          <!--mision 7-->
+          <!--phonemas-->
+          <div class="hidden phonemeSlide">
+            <div class="row col-adap7 muestraPhonemas"><!--fila de phonemas-->
+    
+            </div>
+            <!--fin fila de phonemas-->
+    
+            <!--INICIO TRICKY WORDS Y/O BLENDING-->
+            <div class="row justify-content-end posicion_tricky4">
+              <div class="square">
+                <div class="trickySign trickySign4">
+                  <p class="tricky_brightness">Tricky<br>Words</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="row justify-content-end posicion_blending6 mision7_5">
+              <div class="square">
+                <div class="blendingSign blendingSign6">
+                  <p class="">Blending<br/>6</p>
+                </div>
+              </div>
+            </div>
+            <!--FIN TRICKY WORDS-->
+          </div>
+          <!--fin de mision 7-->
+    
+          <!--mision 8-->
+          <!--phonemas-->
+    
+    
+          <div class="hidden phonemeSlide">
+            <div class="mision8_1"></div>
+            <div class="mision8_2"></div>
+            <div class="mision8_3"></div>
+            <div class="mision8_4"></div>  
+            <div class="row col-adap8 muestraPhonemas"><!--fila de phonemas-->
+    
+            </div>
+            <!--fin fila de phonemas-->
+    
+            <!--INICIO TRICKY WORDS Y/O BLENDING-->
+            <div class="row justify-content-end  posicion_tricky5 mision8_5">
+              <div class="trickySign trickySign5">
+                <p class="tricky_brightness">Tricky<br>Words</p>
+              </div>
+            </div>
+            <div class="row justify-content-end  posicion_blending7 mision8_6">
+              <div class="blendingSign blendingSign7">
+                <p class="">Blending<br />7</p>
+              </div>
+            </div>
+            <!--FIN TRICKY WORDS-->
+          </div>
+          <!--fin de mision 8-->
+        </div>
+    
+    
+        <!--botón next-->
+        <div id="nextBar" class="col-1 text-end arrowSpace hoverBar">
+          <button id="nextArrow">
+            <img src="assets/images/btns/btn_next.png" class="arrows" />
+          </button>
+        </div>
+    
+      </div>
+    </div>
+
+
+  </section>
+
+    <!--SECCION TRICKY WORDS NUEVA-->
+    
+    <section id="trickyScreen" class="back_lessons">
+      <div class="backHome mt-3">
+        <div class="extraLogoContainer mt-3">
+          <img id="logoTrickyScreen" src="assets/images/LogoAstroPhonics_elpre.png" class="img-fluid astroPhonicsLogo">
+        </div>
+        <button id="backTricky" class="btn">
+          <img src="assets/images/btns/btn_home2.svg" class="icons backMission">
+        </button>
+        <button id ="trickyHomeButton" class="btn ">
+          <img src="assets/images/btns/btn_home.svg" class="icons">
+        </button>
+      </div>
+      <div class="row justify-content-center mb-3">
+        <h1 class="secciontricky mb-2">Tricky Words</h1>
+    
+        <div id="trickyPanel" class="row justify-content-center text-center gy-5 mt-2">
+          <!--AUTOMATIZACION ACTIVIDADES TRICKY WORDS-->
+        </div>
+      </div>
+    
+    </section>
+
+  <!--FIN SECCION TRICKY WORDS-->
+
+     <!--SECCION BLENDING NUEVA-->
+    
+     <section id="blendingScreen" class="back_lessons">
+      <div class="backHome mt-3">
+        <div class="extraLogoContainer mt-3">
+          <img id="logoBlendingScreen" src="assets/images/LogoAstroPhonics_elpre.png"  class="img-fluid astroPhonicsLogo">
+        </div>
+        <button id="backBlending" class="btn">
+          <img src="assets/images/btns/btn_home2.svg" class="icons backMission">
+        </button>
+        <button id="blendingHomeButton" class="btn ">
+          <img src="assets/images/btns/btn_home.svg" class="icons">
+        </button>
+      </div>
+      <div class="row justify-content-center mb-3">
+        <h1 class="secciontricky mb-2">Blending</h1>
+    
+        <div id="blendingPanel" class="row justify-content-center text-center gy-5 mt-2">
+          <!--AUTOMATIZACION ACTIVIDADES BLENDING-->
+        </div>
+      </div>
+    
+    </section>
+
+  <!--FIN SECCION BLENDING-->
+
+  <!--CONTENIDO POR FONEMA-->
+
+  <!--AUTOMATIZACION FONEMA ENTRANDO POR LETTERLOCKER-->
+  <div class="back_lessons cardScreen">
+    <div class="backHome mb-3  flex-wrap">
+      <div class="extraLogoContainer mt-3">
+        <img id="logoLessonScreen" src="assets/images/LogoAstroPhonics_elpre.png" class="img-fluid astroPhonicsLogo">
+      </div>
+      <div class="d-flex align-items-center">
+      <div>
+      <button id="xCardScreen" class="btn">
+        <img src="assets/images/btns/btn_home2.svg" class="icons backMission">
+      </button>
+      <button class="btn csHomeButton">
+        <img src="assets/images/btns/btn_home.svg" class="icons">
+      </button>
+      </div>
+      </div>
+    </div>
+    <div class="container-fluid mb-5">
+      <div class="row">
+        <!--MENU IZQ-->
+        <div class="col-lg-3 col-md-3 col-sm-12 ">
+          <div class="phonema">
+            <div>
+              <p class="graphemeToggle"><img src="assets/grapheme/lesson_1.png" class="img-fluid"></p>
+              <p class="phonemeToggle"><img src="assets/phoneme/lesson_1.png" class="img-fluid"></p>
+            </div>
+            <div>
+              <div class="toggleableButton">
+                <button class="graph chosen" disabled>
+                  <p>Grapheme</p>
+                </button>
+                <button class="phon">
+                  <p>Phoneme</p>
+                </button>
+                <div class="toggleable">
+                </div>
+              </div>   
+            </div>
+            <div class="tuto_icon_phoneme">
+              <a class="btn" data-bs-toggle="tooltip" data-bs-title="Switch to view phoneme" data-bs-placement="right">
+                <img src="assets/images/btns/tutorial.svg" class="tutorial">
+            </a>
             </div>
           </div>
 
-    </div>
-
-
-    <!--PAGINA 2-->
-
-
-
-    <div class="row  mt-4 mb-4" >
-
-      <div class="col">
-        <div class="">
-          <button class="btn btn-lg">
-            <svg xmlns="http://www.w3.org/2000/svg" height="2em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M512 256A256 256 0 1 0 0 256a256 256 0 1 0 512 0zM231 127c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-71 71L376 232c13.3 0 24 10.7 24 24s-10.7 24-24 24l-182.1 0 71 71c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0L119 273c-9.4-9.4-9.4-24.6 0-33.9L231 127z"/></svg>
-          </button>
-        </div>
-    </div>
-      <!--CARD 1 SUN-->  
-      <div class="col">
-        <div class="card" style="width: 9.9rem;" >
-          <div class="card-body">
-            SUN
-          </div>
-        </div>
-      </div>
-      <!--CARD 2 Apple-->  
-      <div class="col">
-        <div class="card" style="width: 9.9rem;">
-          <div class="card-body">
-            Apple
-          </div>
-        </div>
-      </div>
-      <!--CARD 3 SUN-->  
-      <div class="col">
-        <div class="card" style="width: 9.9rem;">
-          <div class="card-body">
-            TOUCH
-          </div>
-        </div>
-      </div>
-      <!--CARD 4-->  
-      <div class="col">
-        <div class="card" style="width: 9.9rem;">
-          <div class="card-body">
-            PENCIL
-          </div>
-        </div>
-      </div>
-      <!--CARD 5-->  
-      <div class="col">
-        <div class="card" style="width: 9.9rem;">
-          <div class="card-body">
-            BOX
-          </div>
-        </div>
-      </div>
-      <!--CARD 6-->  
-      <div class="col">
-        <div class="card" style="width: 9.9rem;">
-          <div class="card-body">
-            NUMBERS
-          </div>
-        </div>
-      </div>
-
-      <div class="col align-items-end">
-          <div class="">
-            <button class="btn btn-lg">
-              <svg xmlns="http://www.w3.org/2000/svg" height="2em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"/></svg>
-            </button>
-          </div>
-      </div>
+      
         
-</div>
 
-<div class="row d-flex justify-content-end">
-  <div class="col-3">
-    <div class="card" >
-      <div class="card-body">
-        Tricky Words
-      </div>
-    </div>
-    </div>
+          <div role="tabpanel" style="margin-bottom: 1em;">
+            <!-- List group -->
+            <div class="list-group" id="myList" role="tablist">
+              <a class="list-group-item list-group-item-action graphModalOption active" data-bs-toggle="list" href="#new" role="tab">
+                <span class="text-list">
+                  <img src="assets/images/secciones/seccion_1.png" class="icon-link">
+                  New Sound
+                </span> </a>
+              <a class="list-group-item list-group-item-action graphModalOption" data-bs-toggle="list" href="#practice" role="tab">
+                <span class="text-list">
+                  <img src="assets/images/secciones/seccion_3.png" class="icon-link">
+                  Practice
+                </span>
 
-    <div class="col-3">
-      <div class="card" >
-        <div class="card-body">
-          Blending 1
+              </a>
+              <a class="list-group-item list-group-item-action graphModalOption" data-bs-toggle="list" href="#chant" role="tab">
+                <span class="text-list">
+                  <img src="assets/images/secciones/seccion_4.png" class="icon-link">
+                  Chant
+                </span>
+              </a>
+             <a class="list-group-item list-group-item-action graphModalOption" data-bs-toggle="list" href="#print" role="tab">
+                <span class="text-list">
+                  <img src="assets/images/secciones/seccion_2.png" class="icon-link">
+                  Printables
+                </span>
+              </a> 
+
+            </div>
+          </div>
+        </div>
+
+        <!--MATERIAL-->
+        <div class="col-md-9 col-xm-12 p-3">
+          <!--VIDEO-->
+          <div class="tab-content">
+            <div class="tab-pane fade show active graphModalPanel cardScreenVideo" id="new" role="tabpanel">
+              <video src="" class="video object-fit-contain border rounded" controls></video>
+            </div>
+            <!--ACTIVIDADES-->
+            <div class="tab-pane fade  text-center graphModalPanel" id="practice" role="tabpanel">
+              <div id="actScreen" class="row gy-5">
+                <!-- AUTOMATIZACION LOs -->
+              </div>
+        
+        
+            </div>
+        
+            <!--CHANT-->
+            <div class="tab-pane fade text-center graphModalPanel" id="chant" role="tabpanel">
+              <div id="chantScreen" class="row gy-5">
+        
+                <!-- AUTOMATIZACION chant LOs -->
+              </div>
+        
+        
+            </div>
+        
+            <!--PRINT-->
+            <div class="tab-pane fade graphModalPanel" id="print" role="tabpanel">
+              <div id="printablePDF" class="row">
+                <!-- AUTOMATIZACION printable PDF -->
+              </div>
+              <div id="printableTracks" class="row mt-5 d-flex">
+                <!-- AUTOMATIZACION printable tracks -->
+              </div>
+        
+            </div>
+        
+          </div>
         </div>
       </div>
+    </div>
   </div>
-     </div> 
+  <div id="liquid"></div>
+  <div id="auxiliarModal"></div>
 
-  </div>
+ 
 
-    <footer class="pt-3 mt-4 text-body-secondary border-top">
-      &copy; <script>
-        document.write(new Date().getFullYear())
-      </script>, Designed by Richmond Solution
-    </footer>
-  </div>
-</main>
+
+  <footer id="mainFooter" class="pt-3 mt-4 text-white border-top">
+    &copy;
+    <script>
+      document.write(new Date().getFullYear())
+    </script>, Designed by Richmond
+  </footer>
+
+<!--TOOLTIPS-->
 <script src="assets/js/bootstrap.bundle.min.js"></script>
 
-    </body>
+<script>
+const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+
+  </script> 
+
+  <!--TUTORIAL ventana-->
+  <script>
+    function opentutorial(){
+      document.getElementById("tutorial_letter").style.display="block"
+    }
+    function closetutorial(){
+          document.getElementById("tutorial_letter").style.display="none"
+    }
+
+    
+    function openmisiones(){
+      document.getElementById("tutorial_misiones").style.display="block"
+    }
+    function closemisiones(){
+          document.getElementById("tutorial_misiones").style.display="none"
+    }
+
+    function opentutorialph(){
+      document.getElementById("tutorial_phoneme").style.display="block"
+    }
+    function closetutorialph(){
+      document.getElementById("tutorial_phoneme").style.display="none"
+    }
+
+  </script>
+
+  <script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+    crossorigin="anonymous">
+        
+      function cambiaimg() {
+        var tval = document.getElementById("myonoffswitch").value;
+        if (tval == "G") {
+          tval = "P";
+          document.getElementById("textovar").value = "/s/";
+        } else {
+          tval = "G";
+          document.getElementById("textovar").value = "S";
+        }
+        document.getElementById("myonoffswitch").value = tval;
+      }
+
+      const bsCollapse = new bootstrap.Collapse('#myCollapse', {
+        toggle: false
+      })
+
+      const myCollapsible = document.getElementById('myCollapsible')
+      myCollapsible.addEventListener('hidden.bs.collapse', event => {
+
+      })
+
+      
+
+
+    </script>
+
+  <script type="text/javascript" src="assets/js/TweenMax.min.js"></script>
+  <script src="assets/js/alex_library.js"></script>
+  <script src="assets/js/main.js"></script>
+ 
+
+
+
+</body>
+
 </html>

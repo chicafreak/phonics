@@ -1,0 +1,1569 @@
+{
+  "annotations": {
+    "toolbar": {
+      "button": {
+        "toggleTurnOn": {
+          "label": "Ferramentas",
+          "description": "Abrir ferramentas"
+        },
+        "toggleTurnOff": {
+          "label": "Ferramentas",
+          "description": "Fechar ferramentas"
+        },
+        "pointer": {
+          "label": "",
+          "description": "Ponteiro"
+        },
+        "pen": {
+          "label": "",
+          "description": "Lápis"
+        },
+        "brush": {
+          "label": "",
+          "description": "Realçador"
+        },
+        "eraser": {
+          "label": "",
+          "description": "Borracha"
+        },
+        "stickyNotes": {
+          "label": "",
+          "description": "Post-it"
+        },
+        "undo": {
+          "label": "",
+          "description": "Desfazer"
+        },
+        "redo": {
+          "label": "",
+          "description": "Refazer"
+        },
+        "visibilityHiddenTurnOn": {
+          "label": "",
+          "description": "Ocultar anotações"
+        },
+        "visibilityHiddenTurnOff": {
+          "label": "",
+          "description": "Mostrar anotações"
+        },
+        "richText": {
+          "label": "",
+          "description": "Notas sobre rich text"
+        },
+        "clearAll": {
+          "label": "",
+          "description": "Excluir todas as anotações"
+        },
+        "textHighlighter": {
+          "label": "",
+          "description": "Marcador de texto"
+        }
+      }
+    },
+    "stickyNote": {
+      "button": {
+        "close": {
+          "label": "",
+          "description": "Recolher"
+        },
+        "expand": {
+          "label": "",
+          "description": "Ampliar nota"
+        },
+        "delete": {
+          "label": "",
+          "description": "Excluir nota"
+        }
+      }
+    },
+    "timer": {
+      "title": "Timer",
+      "minutes": "Minutos",
+      "seconds": "Segundos",
+      "display": "Minutos:Segundos",
+      "button": {
+        "close": {
+          "label": "Fechar",
+          "description": "Fechar timer"
+        },
+        "start": {
+          "label": "Iniciar",
+          "description": "Iniciar timer"
+        },
+        "stop": {
+          "label": "Parar",
+          "description": "Parar timer"
+        }
+      }
+    },
+    "richText": {
+      "button": {
+        "close": {
+          "label": "",
+          "description": "Retrair o texto"
+        },
+        "delete": {
+          "label": "",
+          "description": "Excluir texto"
+        },
+        "expand": {
+          "label": "",
+          "description": "Expandir texto"
+        }
+      },
+      "control": {
+        "handle": {
+          "description": "Arrastar para mover o texto"
+        }
+      }
+    }
+  },
+  "body": {
+    "brand": "Richmond",
+    "timer": {
+      "label": "Tempo restante:",
+      "negative": "-",
+      "days": "dia",
+      "days_plural": "dias",
+      "hours": "hora",
+      "hours_plural": "horas",
+      "minutes": "minuto",
+      "minutes_plural": "minutos",
+      "seconds": "segundo",
+      "seconds_plural": "segundos",
+      "extra": "extra",
+      "extra_plural": "extra",
+      "left": "restante",
+      "left_plural": "restantes"
+    },
+    "loToolbar": {
+      "button": {
+        "toggleTurnOn": {
+          "label": "Opções",
+          "description": "Abrir menu de contexto"
+        },
+        "toggleTurnOff": {
+          "label": "Opções",
+          "description": "Fechar menu contextual"
+        }
+      }
+    },
+    "button": {
+      "close": {
+        "label": "",
+        "description": "Fechar esta caixa de diálogo"
+      }
+    },
+    "error": {
+      "title": "Erro",
+      "code_LO_OFFLINE": "Você está off-line. Verifique sua conexão e tente novamente.",
+      "code_LO_START": "Ocorreu um erro ao carregar dados gravados anteriormente. Feche e tente novamente.",
+      "code_LO_CLOSE": "Erro ao fechar o objeto de aprendizagem.",
+      "code_LO_SUBMIT": "Erro ao enviar o objeto de aprendizagem.",
+      "code_LO_SUBMIT_NO_ATTEMPTS": "Não há mais tentativas disponíveis. Não é possível enviar o objeto de aprendizagem.",
+      "code_LO_SUBMIT_OFFLINE": "Não é possível enviar o objeto de aprendizagem offline. \nVerifique sua conexão com a internet e tente novamente.",
+      "code_LO_SEND_SCORES": "Erro ao enviar pontuações do objeto de aprendizagem.",
+      "code_LO_SEND_SCORES_NO_ATTEMPTS": "Não há mais tentativas disponíveis. Não é possível enviar as pontuações.",
+      "unexpected": "Ocorreu um erro inesperado. Feche e tente novamente."
+    },
+    "figure": {
+      "button": {
+        "label": "Descrição",
+        "description": "Descrição"
+      }
+    }
+  },
+  "contentElements": {
+    "icTextCorrectionDialog": {
+      "titlePrefix": "Substituir:",
+      "placeholder": "Escreva a(s) palavra(s) correta(s)",
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        },
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "$t(dialog.shared.button.cancel.description)"
+        },
+        "ok": {
+          "label": "$t(dialog.shared.button.ok.label)",
+          "description": "$t(dialog.shared.button.ok.description)"
+        }
+      }
+    },
+    "imColouring": {
+      "button": {
+        "highlighter": {
+          "description": "Cor do realçador"
+        }
+      }
+    },
+    "languageSwitcher": {
+      "button": {
+        "language": {
+          "label": "Idioma",
+          "description": "Alternador de idiomas"
+        }
+      }
+    },
+    "mediaPlayer": {
+      "audio": {
+        "description": "Audio: {{title}}"
+      },
+      "video": {
+        "description": "Video: {{title}}"
+      },
+      "volumeStair": {
+        "prefix": "Volume ",
+        "suffix": ""
+      },
+      "button": {
+        "play": {
+          "label": "",
+          "description": "Reproduzir {{title}}"
+        },
+        "pause": {
+          "label": "",
+          "description": "Pausa"
+        },
+        "volume": {
+          "label": "",
+          "description": "Ajustar o volume"
+        },
+        "mute": {
+          "label": "",
+          "description": "Modo mudo"
+        },
+        "speed": {
+          "label": "",
+          "description": "Velocidade de reprodução"
+        },
+        "playbackSpeed1": {
+          "label": "0.5",
+          "description": "0.5"
+        },
+        "playbackSpeed2": {
+          "label": "0.75",
+          "description": "0.75"
+        },
+        "playbackSpeed3": {
+          "label": "Normal",
+          "description": "Normal"
+        },
+        "playbackSpeed4": {
+          "label": "1.25",
+          "description": "1.25"
+        },
+        "playbackSpeed5": {
+          "label": "1.5",
+          "description": "1.5"
+        },
+        "transcriptTurnOn": {
+          "label": "",
+          "description": "Mostrar transcrição"
+        },
+        "transcriptTurnOff": {
+          "label": "",
+          "description": "Ocultar transcrição"
+        },
+        "subtitlesTurnOn": {
+          "label": "",
+          "description": "Mostrar legendas"
+        },
+        "subtitlesTurnOff": {
+          "label": "",
+          "description": "Ocultar legendas"
+        },
+        "quality": {
+          "label": "",
+          "description": "Qualidade"
+        },
+        "qualityAuto": {
+          "label": "Automático",
+          "description": "Automático"
+        },
+        "fullscreenTurnOn": {
+          "label": "",
+          "description": "Alternar para tela cheia"
+        },
+        "fullscreenTurnOff": {
+          "label": "",
+          "description": "Sair da tela cheia"
+        }
+      }
+    },
+    "writing": {
+      "button": {
+        "showAll": {
+          "label": "Mostrar todos",
+          "description": ""
+        }
+      }
+    }
+  },
+  "controls": {
+    "bar": {
+      "pagination": {
+        "index": {
+          "prefix": "Página",
+          "conjunction": "de",
+          "suffix": ""
+        },
+        "current": {
+          "description": "Página atual"
+        }
+      },
+      "runningScore": {
+        "prefix": "Pontuação",
+        "conjunction": "/",
+        "suffix": "pontos"
+      },
+      "button": {
+        "previous": {
+          "label": "",
+          "description": "Voltar para a tela anterior"
+        },
+        "forward": {
+          "label": "",
+          "description": "Passar para a próxima tela"
+        },
+        "previousLO": {
+          "label": "Atividade anterior",
+          "description": "Voltar para a atividade anterior"
+        },
+        "forwardLO": {
+          "label": "Próxima atividade",
+          "description": "Passar para próxima atividade"
+        },
+        "rights": {
+          "label": "Direitos",
+          "description": "Abrir informações sobre direitos autorais"
+        },
+        "signalShow": {
+          "label": "Mostrar palavras incorretas",
+          "description": "Mostrar palavras incorretas"
+        },
+        "signalHide": {
+          "label": "Ocultar palavras incorretas",
+          "description": "Ocultar palavras incorretas"
+        },
+        "answerNext": {
+          "label": "Próxima resposta",
+          "description": "Mostrar a próxima resposta"
+        },
+        "answerAll": {
+          "label": "Todas as respostas",
+          "description": "Mostrar todas as respostas"
+        },
+        "solutionHint": {
+          "label": "Dica da solução",
+          "description": "Mostrar dica da solução"
+        },
+        "retry": {
+          "label": "Tentar novamente",
+          "description": "Limpar respostas"
+        },
+        "reveal": {
+          "label": "Exibir",
+          "description": "Exibir item oculto"
+        },
+        "hide": {
+          "label": "Ocultar",
+          "description": "Ocultar itens exibidos"
+        },
+        "save": {
+          "label": "Salvar",
+          "description": "Salvar seu trabalho"
+        },
+        "boxdrop": {
+          "label": "Eliminar",
+          "description": "Eliminar a caixa atual"
+        },
+        "boxdropPause": {
+          "label": "Pausar",
+          "description": "Pausar atividade"
+        },
+        "boxdropResume": {
+          "label": "Retomar",
+          "description": "Retomar a atividade"
+        },
+        "quizNew": {
+          "label": "Novo jogo",
+          "description": "Reiniciar o jogo com novas perguntas"
+        },
+        "quizRestart": {
+          "label": "Reiniciar o jogo",
+          "description": "Reiniciar o jogo com as mesmas perguntas"
+        },
+        "quizSkip": {
+          "label": "Ignorar a pergunta",
+          "description": "Ignorar a pergunta e finalizar"
+        },
+        "quizBack": {
+          "label": "Voltar",
+          "description": "Acessar o tabuleiro do jogo"
+        },
+        "loNotes": {
+          "label": "Notas",
+          "description": "Mostrar notas"
+        },
+        "micSettings": {
+          "label": "Configurações do microfone",
+          "description": "Abrir as configurações do microfone"
+        },
+        "specialChars": {
+          "label": "Caracteres especiais",
+          "description": "Abrir o seletor de caracteres especiais"
+        },
+        "export": {
+          "label": "Exportar",
+          "description": "Exportar atividade"
+        },
+        "imProofingHint": {
+          "label": "Dica",
+          "description": "Quero uma dica"
+        },
+        "hints": {
+          "label": "Primeira dica",
+          "description": "Quero uma dica"
+        },
+        "hintsSecond": {
+          "label": "Segunda dica"
+        },
+        "hintsThird": {
+          "label": "Teceira dica"
+        },
+        "help": {
+          "label": "Ajuda",
+          "description": "Mostrar ajuda para atividades"
+        },
+        "answers": {
+          "label": "Ver as respostas",
+          "description": "Mostrar respostas corretas"
+        },
+        "check": {
+          "label": "Verificar respostas",
+          "description": "Enviar respostas para marcação"
+        },
+        "reset": {
+          "label": "Limpar",
+          "description": "Limpar suas respostas"
+        },
+        "resetAll": {
+          "label": "Limpar tudo",
+          "description": "Limpar todas as suas respostas"
+        },
+        "fullscreenTurnOn": {
+          "label": "Tela cheia",
+          "description": "Alternar para tela cheia"
+        },
+        "fullscreenTurnOff": {
+          "label": "Tela cheia",
+          "description": "Sair da tela cheia"
+        },
+        "toc": {
+          "label": "Sumário",
+          "description": "Alternar sumário"
+        },
+        "results": {
+          "label": "Resultados",
+          "description": "Mostrar os resultados"
+        },
+        "sectionTimes": {
+          "label": "Tempo gasto",
+          "description": "Ver o tempo e os gastos recomendados em casa seção"
+        },
+        "sendscores": {
+          "label": "Enviar pontuações",
+          "description": "Enviar pontuações"
+        },
+        "exercises": {
+          "label": "Revisar",
+          "description": "Revisar suas respostas"
+        },
+        "submit": {
+          "label": "Enviar",
+          "description": "Enviar para o Boletim"
+        },
+        "countdown": {
+          "label": "Timer",
+          "description": "Ferramenta de contagem regressiva"
+        }
+      },
+      "readerCustom": {
+        "button": {
+          "submitReading": {
+            "label": "Leitura finalizada"
+          }
+        }
+      }
+    }
+  },
+  "check": {
+    "correct": {
+      "description": "Resposta correta"
+    },
+    "wrong": {
+      "description": "Resposta incorreta"
+    },
+    "revealed": {
+      "description": "Resposta em branco"
+    }
+  },
+  "dialog": {
+    "shared": {
+      "confirmation": "Tem certeza?",
+      "results": "Como você se saiu?",
+      "feedback": "Comentários",
+      "score": {
+        "prefix": "Sua pontuação",
+        "conjunction": "respostas corretas de"
+      },
+      "button": {
+        "cancel": {
+          "label": "Cancelar",
+          "description": "Continuar sem alterações"
+        },
+        "close": {
+          "label": "Fechar",
+          "description": "Fechar esta caixa de diálogo"
+        },
+        "ok": {
+          "label": "Aplicar",
+          "description": "Aplicar alterações"
+        },
+        "continue": {
+          "label": "Continuar",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      }
+    },
+    "autoEndResults": {
+      "title": "$t(dialog.shared.results)",
+      "body": "$t(dialog.shared.score.prefix) {{correct}} $t(dialog.shared.score.conjunction) {{total}}.",
+      "automaticmarked": "Percentage: {{score}}%.",
+      "table": {
+        "header": {
+          "question": "Pergunta",
+          "mark": "Marcar"
+        },
+        "body": {
+          "mark": "{{correct}} out of {{total}}"
+        }
+      },
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.continue.label)",
+          "description": "$t(dialog.shared.button.continue.description)"
+        }
+      }
+    },
+    "checkedAnswers": {
+      "title": "$t(dialog.shared.feedback)",
+      "body": "$t(dialog.shared.score.prefix) {{correct}} $t(dialog.shared.score.conjunction) {{total}}.",
+      "button": {
+        "tryAgain": {
+          "label": "$t(controls.bar.button.retry.label)",
+          "description": "$t(controls.bar.button.retry.description)"
+        },
+        "submit": {
+          "label": "$t(controls.bar.button.submit.label)",
+          "description": "$t(controls.bar.button.submit.description)"
+        },
+        "next": {
+          "label": "$t(controls.bar.button.forward.label)",
+          "description": "$t(controls.bar.button.forward.description)"
+        }
+      }
+    },
+    "checkInfo": {
+      "title": "$t(dialog.shared.results)",
+      "body": "$t(dialog.shared.score.prefix) {{correct}} $t(dialog.shared.score.conjunction) {{total}}.",
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      },
+      "custom": {
+        "correct": "Correto:",
+        "score": "Pontuação:",
+        "message": "Sua pontuação não será enviada para o boletim de notas."
+      }
+    },
+    "feedbackText": {
+      "title": "",
+      "button": {
+        "close": {
+          "label": "OK",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      }
+    },
+    "imMarkingLettersSelect": {
+      "title": "Selecione uma ou mais letras"
+    },
+    "imVoiceNoMatch": {
+      "title": "Nenhuma correspondência encontrada",
+      "body": "Sua gravação \\\"{{transcript}}\\\" não corresponde a qualquer parte do texto. Faça uma nova gravação."
+    },
+    "isRadiobuttonVoiceNoMatch": {
+      "title": "$t(dialog.imVoiceNoMatch.title)",
+      "body": "Sua gravação \\\"{{transcript}}\\\" não corresponde a qualquer resposta disponível. Faça uma nova gravação."
+    },
+    "micNotFound": {
+      "title": "Microfone não encontrado",
+      "body": "Habilite o microfone. Ele é necessário para esta atividade."
+    },
+    "testRecording": {
+      "title": "Gravação de teste",
+      "body": "Você pode testar seu microfone com uma gravação de teste abaixo. Ouça sua gravação para se certificar de que o seu microfone está funcionando corretamente.",
+      "button": {
+        "record": {
+          "label": "Gravar",
+          "description": "Gravar um teste"
+        },
+        "stopRecording": {
+          "label": "Gravar",
+          "description": "Interromper a gravação"
+        },
+        "play": {
+          "label": "Reproduzir",
+          "description": "Reproduzir sua gravação"
+        },
+        "stopPlay": {
+          "label": "Reproduzir",
+          "description": "Interromper a reprodução"
+        }
+      },
+      "discard": "Não exibir novamente."
+    },
+    "close": {
+      "title": "$t(dialog.shared.confirmation)",
+      "body": "Você quer realmente fechar este objeto de aprendizagem?",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "Mantenha aberta"
+        },
+        "ok": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "Sim, eu quero fechar"
+        }
+      }
+    },
+    "delayedFeedback": {
+      "title": "$t(dialog.shared.feedback)",
+      "body": "Esta atividade será marcada em outra página.\nFavor prosseguir.",
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      }
+    },
+    "exportAs": {
+      "title": "Exportar como",
+      "body": "",
+      "filename": "Nome do arquivo",
+      "formatDivider": ".",
+      "formatList": {
+        "label": "Selecione o formato do arquivo",
+        "pdf": "pdf",
+        "rtf": "rtf"
+      },
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "$t(dialog.shared.button.cancel.description)"
+        },
+        "ok": {
+          "label": "$t(controls.bar.button.export.label)",
+          "description": "$t(dialog.exportAs.title)"
+        }
+      }
+    },
+    "flashFirstAnswersOverlay": {
+      "title": "Primeira resposta"
+    },
+    "helpText": {
+      "title": "Ajuda",
+      "body": "Você pode editar este texto em Autor > Atividades do projeto > Selecionar AT > Texto de ajuda",
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      }
+    },
+    "hint": {
+      "title": "Dica",
+      "body": "",
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      }
+    },
+    "infoText": {
+      "title": "Informações",
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      }
+    },
+    "mediaPlayer": {
+      "transcript": {
+        "title": "Transcrição"
+      }
+    },
+    "notebook": {
+      "title": "Caderno"
+    },
+    "offlineCheck": {
+      "title": "Sem conexão",
+      "body": "Parece que você não está conectado à internet no momento.<br>Não é possível enviar seu trabalho até que você esteja on-line. Verifique sua conexão e tente novamente.",
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      }
+    },
+    "ppQuizTeamSelect": {
+      "title": "Número de equipes",
+      "body": "Selecione o número de equipes para o seu teste.",
+      "button": {
+        "ok": {
+          "label": "Iniciar",
+          "description": "Iniciar o jogo"
+        }
+      },
+      "teams": "Equipes:"
+    },
+    "reallyReload": {
+      "title": "$t(dialog.shared.confirmation)",
+      "body": "Deseja limpar todas as suas respostas em todas as atividades e recomeçar da estaca zero?",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "$t(dialog.shared.button.cancel.description)"
+        },
+        "ok": {
+          "label": "$t(controls.bar.button.reset.label)",
+          "description": "$t(controls.bar.button.reset.description)"
+        }
+      }
+    },
+    "reallyReloadAll": {
+      "title": "$t(dialog.shared.confirmation)",
+      "body": "Deseja limpar todas as suas respostas em todas as atividades e recomeçar da estaca zero?",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "$t(dialog.shared.button.cancel.description)"
+        },
+        "ok": {
+          "label": "$t(controls.bar.button.resetAll.label)",
+          "description": "$t(controls.bar.button.resetAll.description)"
+        }
+      }
+    },
+    "reallySubmit": {
+      "title": "$t(dialog.shared.confirmation)",
+      "body": "Você não respondeu a todas as perguntas.<br>\nTem certeza de que quer enviar suas pontuações agora?",
+      "button": {
+        "cancel": {
+          "label": "Cancelar",
+          "description": "Continuar sem enviar"
+        },
+        "ok": {
+          "label": "$t(controls.bar.button.submit.label)",
+          "description": "Enviar seus resultados"
+        }
+      }
+    },
+    "recordingError": {
+      "title": "Erro de gravação",
+      "body": "Ocorreu um erro técnico que interrompeu a gravação. Tente novamente."
+    },
+    "recordingSaveAs": {
+      "title": "Baixar como",
+      "body": "",
+      "format": ".mp3",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "$t(dialog.shared.button.cancel.description)"
+        },
+        "ok": {
+          "label": "Baixar",
+          "description": "Baixar o áudio"
+        }
+      }
+    },
+    "rights": {
+      "title": "$t(controls.bar.button.rights.label)",
+      "body": ""
+    },
+    "seeAnswersAfterCheck": {
+      "title": "$t(dialog.shared.confirmation)",
+      "body": "Tem certeza de que quer ver as respostas agora?<br>Você não terá outra chance.",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "$t(dialog.shared.button.cancel.description)"
+        },
+        "ok": {
+          "label": "Continuar",
+          "description": "Ver as respostas"
+        }
+      }
+    },
+    "seeAnswersBeforeCheck": {
+      "title": "$t(dialog.shared.confirmation)",
+      "body": "Tem certeza de que quer ver as respostas agora?<br>Voc~e receberá 0 pontos por esta atividade.",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "$t(dialog.shared.button.cancel.description)"
+        },
+        "ok": {
+          "label": "$t(dialog.seeAnswersAfterCheck.button.ok.label)",
+          "description": "$t(dialog.seeAnswersAfterCheck.button.ok.description)"
+        }
+      }
+    },
+    "sendScores": {
+      "title": "$t(controls.bar.button.sendscores.label)",
+      "body": "Certifique-se de que você clicou $t(controls.bar.button.check.label) em todas as atividades.",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.continue.label)",
+          "description": "$t(dialog.shared.button.continue.description)"
+        }
+      }
+    },
+    "sendScoresInfo": {
+      "title": "$t(controls.bar.button.sendscores.label)",
+      "body": "Seus resultados foram enviados para o livro de marcações",
+      "score": "$t(dialog.shared.score.prefix) {{correct}} $t(dialog.shared.score.conjunction) {{total}}."
+    },
+    "specialCharacters": {
+      "title": "$t(controls.bar.button.specialChars.label)",
+      "body": "",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      }
+    },
+    "submitFinish": {
+      "title": "Concluído",
+      "body": "Bom trabalho! Você concluiu este exercício.",
+      "readerCustom": {
+        "bodyForReading": "Você terminou de ler este capítulo.",
+        "bodyForActivity": "Você concluiu este exercício."
+      }
+    },
+    "submitInfo": {
+      "title": "Mandar",
+      "body": "Enviando com sucesso.",
+      "answers": "você respondeu",
+      "correct": "correto",
+      "score": "Pontuação",
+      "perfectScore": "Bom trabalho!",
+      "maxAttempts": {
+        "singular": "",
+        "plural": {
+          "attemptsLeft": {
+            "none": ": Sua segunda pontuação foi enviada para o boletim de notas. Você não tem mais tentativas.",
+            "singular": "Para continuar praticando escolha: $t(dialog.submitInfo.custom.button.goback.label) e depois $t(controls.bar.button.retry.label).",
+            "plural": "Você tem mais {{attemptsLeft}} tentativas restantes. Para continuar praticando escolha: $t(dialog.submitInfo.custom.button.goback.label) e depois $t(controls.bar.button.retry.label)."
+          }
+        },
+        "unlimited": "Esta é sua tentativa {{attempts}}. Volte e pressione $t(controls.bar.button.retry.label)."
+      },
+      "button": {
+        "close": {
+          "label": "$t(dialog.shared.button.close.label)",
+          "description": "$t(dialog.shared.button.close.description)"
+        }
+      },
+      "custom": {
+        "scoreSent": "Sua primeira pontuação foi enviada para o boletim de notas",
+        "perfectScore": "Legal! Sua pontuação foi enviada para o boletim de notas.",
+        "button": {
+          "goback": {
+            "label": "Voltar atrás na escolha",
+            "description": "Ir para a primeira página"
+          }
+        }
+      },
+      "readerCustom": {
+        "firstSubmitBody": "Sua primeira pontuacão está no caderno.",
+        "secondSubmitBody": "Sua segunda pontuacão está no caderno.",
+        "tryAgain": "Você quer tentar novamente? Escolha <strong>$t(dialog.submitInfo.custom.button.goback.label)</strong>.",
+        "tryAgainAgain": "Escolha <strong>$t(dialog.submitInfo.custom.button.goback.label)</strong> para ver as perguntas novamente."
+      }
+    },
+    "tableOfContents": {
+      "title": "Selecione uma atividade",
+      "empty": "Não há lançamentos a serem exibidos.",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.cancel.label)",
+          "description": "$t(dialog.shared.button.cancel.description)"
+        }
+      }
+    },
+    "teamsFinalScoreboard": {
+      "title": "Quadro final de pontuação"
+    },
+    "teamsScoreboard": {
+      "title": "Quadro de pontuação"
+    },
+    "timeSpentInSections": {
+      "title": "Tempo gasto",
+      "table": {
+        "header": {
+          "section": "Seção",
+          "recommended": "Recomendado",
+          "spent": "Tempo gasto"
+        },
+        "body": {
+          "total": "Total"
+        }
+      }
+    },
+    "timeOut": {
+      "title": "Tempo esgotado!",
+      "body": "Tempo esgotado!",
+      "button": {
+        "cancel": {
+          "label": "$t(dialog.shared.button.continue.label)",
+          "description": "$t(dialog.shared.button.continue.description)"
+        },
+        "submit": {
+          "label": "$t(controls.bar.button.submit.label)",
+          "description": "$t(controls.bar.button.submit.description)"
+        }
+      }
+    },
+    "unsupportedDevice": {
+      "title": "Não compatível",
+      "body": "Esta atividade só estará disponível em dispositivos compatíveis com HTTPS."
+    },
+    "countdown": {
+      "title": "Definir sua contagem regressiva",
+      "titleInProgress": "Tempo restante",
+      "body": "Configure o timer e pressione o botão Iniciar para abrir a contagem regressiva",
+      "button": {
+        "close": {
+          "label": "Cancelar",
+          "description": "Fechar contagem regressiva"
+        },
+        "pause": {
+          "label": "Pausa",
+          "description": "Pausar contagem regressiva"
+        },
+        "play": {
+          "label": "Reproduzir",
+          "description": "Retomar a contagem regressiva"
+        },
+        "reset": {
+          "label": "Reiniciar",
+          "description": "Reiniciar a contagem regressiva"
+        },
+        "start": {
+          "label": "Iniciar",
+          "description": "Iniciar a contagem regressiva"
+        },
+        "resume": {
+          "label": "Retomar",
+          "description": "Retomar a contagem regressiva"
+        }
+      },
+      "titleEditing": "Editar sua contagem regressiva"
+    }
+  },
+  "export": {
+    "extendedWriting": {
+      "student": "Nome:",
+      "class": "Classe:",
+      "title": "Título:"
+    }
+  },
+  "interaction": {
+    "shared": {
+      "answerCheckTooltipPrefix": "Sua resposta: ",
+      "prefilled": "Resposta pré-arquivada",
+      "toolbar": {
+        "button": {
+          "eraser": {
+            "label": "Borracha",
+            "description": "Apagar marcador"
+          }
+        }
+      },
+      "errorCounter": {
+        "body": "<span class=\"errorCounter__counter errorCounter__counter--correct\">{{correct}}</span>/<span class=\"errorCounter__counter errorCounter__counter--total\">{{errors}}</span> errors"
+      }
+    },
+    "dialogueRecording": {
+      "button": {
+        "settings": {
+          "label": "Opções",
+          "description": "Opções da caixa de diálogo"
+        },
+        "hideTurnOn": {
+          "label": "Ocultar minhas linhas",
+          "description": "Ocultar minhas linhas"
+        },
+        "hideTurnOff": {
+          "label": "Ocultar minhas linhas",
+          "description": "Exibir minhas linhas"
+        },
+        "hideAllTurnOn": {
+          "label": "Ocultar todas as linhas",
+          "description": "Ocultar todas as linhas"
+        },
+        "hideAllTurnOff": {
+          "label": "Ocultar todas as linhas",
+          "description": "Mostrar todas as linhas"
+        },
+        "download": {
+          "label": "Baixar",
+          "description": "Baixar todos"
+        }
+      }
+    },
+    "icTextGap": {
+      "input": {
+        "description": "Lançamento em branco"
+      }
+    },
+    "imProofing": {
+      "correctionPopup": {
+        "title": {
+          "insert": "Inserir",
+          "spelling": "Ortografia:",
+          "grammar": "Gramática: "
+        },
+        "placeholder": "Digite o que deve ser inserido",
+        "button": {
+          "close": {
+            "label": "$t(dialog.shared.button.close.label)",
+            "description": "$t(dialog.shared.button.close.description)"
+          },
+          "ok": {
+            "label": "$t(dialog.shared.button.ok.label)",
+            "description": "$t(dialog.shared.button.ok.description)"
+          }
+        }
+      },
+      "toolbar": {
+        "button": {
+          "toggle": {
+            "label": "Marcas de revisão",
+            "description": "Marcas de revisão"
+          },
+          "eraser": {
+            "label": "$t(interaction.shared.toolbar.button.eraser.label)",
+            "description": "$t(interaction.shared.toolbar.button.eraser.description)"
+          },
+          "capitalize": {
+            "label": "Maiúscula",
+            "description": "Maiúscula"
+          },
+          "lowercase": {
+            "label": "Minúscula",
+            "description": "Minúscula"
+          },
+          "fullStop": {
+            "label": "Adicionar período",
+            "description": "Adicionar período"
+          },
+          "insert": {
+            "label": "Inserir",
+            "description": "Inserir"
+          },
+          "remove": {
+            "label": "Remover",
+            "description": "Remover"
+          },
+          "newParagraph": {
+            "label": "Novo parágrafo",
+            "description": "Novo parágrafo"
+          },
+          "spelling": {
+            "label": "Ortografia",
+            "description": "Ortografia"
+          },
+          "grammar": {
+            "label": "Gramática",
+            "description": "Gramática"
+          },
+          "indent": {
+            "label": "Recuo",
+            "description": "Recuo"
+          }
+        }
+      }
+    },
+    "linkingMultipleLines": {
+      "keyTable": {
+        "key": {
+          "prefiled": "Pré-arquivadas",
+          "correct": "Corretas",
+          "wrong": "Incorretas",
+          "missing": "Faltantes"
+        },
+        "checkbox": "Não mostar novamente",
+        "button": {
+          "close": {
+            "label": "Fechar",
+            "description": "Fechar tabela de chaves"
+          }
+        }
+      }
+    },
+    "ppQuiz": {
+      "board": {
+        "team": "Equipe {{label}}",
+        "points": "pts",
+        "categories": "Categorias"
+      },
+      "gameOver": {
+        "team": "$t(interaction.ppQuiz.board.team)",
+        "winners": {
+          "conjunction": "e",
+          "suffix": "vitórias.",
+          "suffix_plural": "vitória."
+        },
+        "greeting": "Parabéns!"
+      },
+      "team": {
+        "team": "$t(interaction.ppQuiz.board.team)"
+      }
+    },
+    "speakingRecording": {
+      "button": {
+        "listen": {
+          "label": "",
+          "description": "Ouvrir"
+        },
+        "pause": {
+          "label": "",
+          "description": "Pausar áudio"
+        },
+        "stopListen": {
+          "label": "",
+          "description": "Parar de ouvir"
+        },
+        "record": {
+          "label": "Gravar",
+          "description": "Gravar áudio"
+        },
+        "pauseRecording": {
+          "label": "Pausar",
+          "description": "Pausar gravação"
+        },
+        "stopRecording": {
+          "label": "Parar",
+          "description": "Parar de gravar"
+        },
+        "speak": {
+          "label": "Falar",
+          "description": "$t(interaction.speakingRecording.button.record.description)"
+        },
+        "stopSpeaking": {
+          "label": "$t(interaction.speakingRecording.button.speak.label)",
+          "description": "$t(interaction.speakingRecording.button.stopRecording.description)"
+        },
+        "finish": {
+          "label": "",
+          "description": "Parar de gravar"
+        },
+        "play": {
+          "label": "Reproduzir",
+          "description": "Reproduzir a gravação"
+        },
+        "stopPlay": {
+          "label": "",
+          "description": "Parar de reproduzir"
+        },
+        "download": {
+          "label": "",
+          "description": "Baixar gravação"
+        }
+      },
+      "playAll": {
+        "button": {
+          "play": {
+            "label": "Reproduzir todos",
+            "description": ""
+          },
+          "pause": {
+            "label": "",
+            "description": "Pausa"
+          },
+          "stop": {
+            "label": "",
+            "description": "Parar"
+          },
+          "prev": {
+            "label": "",
+            "description": "Anterior"
+          },
+          "next": {
+            "label": "",
+            "description": "Próximo"
+          }
+        }
+      }
+    },
+    "icCrossword": {
+      "clues": {
+        "title": "Chaves",
+        "subtitle_horizontal": "Horizontal",
+        "subtitle_vertical": "Vertical"
+      },
+      "cell": {
+        "description_horizontal": "letra {{letterPosition}} da palavra {{wordReference}}, horizontal",
+        "description_vertical": "Letra {{letterPosition}} da palavra {{wordReference}}, vertical"
+      }
+    },
+    "icTextCorrection": {
+      "button": {
+        "reset": {
+          "label": "Reiniciar",
+          "description": "Reiniciar esta sentença"
+        }
+      }
+    },
+    "isHangman": {
+      "lifeFeedback": {
+        "label": "({{count}} attempt left)",
+        "label_plural": "({{count}} attempts left)",
+        "description": "{{count}} remaining attempt out of {{total}}",
+        "description_plural": "{{count}} remaining attempts out of {{total}}"
+      }
+    },
+    "isCatch": {
+      "gameOver": {
+        "title": "Fim de jogo!",
+        "body": "Este jogo se encerrou.<br>Clique em $t(interaction.isCatch.gameOver.button.ok.label) para prosseguir.",
+        "button": {
+          "ok": {
+            "label": "$t(dialog.shared.button.continue.label)",
+            "description": "$t(dialog.shared.button.continue.description)"
+          }
+        }
+      },
+      "scoreboard": {
+        "time": "Tempo:",
+        "points": "Pontos:"
+      },
+      "timeUp": {
+        "title": "$t(dialog.timeOut.title)",
+        "body": "Este jogo se encerrou.<br>Clique em $t(interaction.isCatch.timeUp.button.ok.label) para prosseguir.",
+        "button": {
+          "ok": {
+            "label": "$t(dialog.shared.button.continue.label)",
+            "description": "$t(dialog.shared.button.continue.description)"
+          }
+        }
+      }
+    },
+    "isCheckbox": {
+      "group": {
+        "description": "respostas possíveis"
+      }
+    },
+    "isRadioButton": {
+      "group": {
+        "description": "respostas possíveis"
+      }
+    },
+    "ppSlideshowToolbar": {
+      "seconds": " sec",
+      "button": {
+        "fullscreen": {
+          "label": "",
+          "description": "Tela cheia"
+        },
+        "previous": {
+          "label": "Anterior",
+          "description": "Anterior"
+        },
+        "next": {
+          "label": "Seja o próximo",
+          "description": "Seja o próximo"
+        },
+        "first": {
+          "label": "Ir primeiro",
+          "description": "Ir primeiro"
+        },
+        "last": {
+          "label": "Ir por último",
+          "description": "Ir por último"
+        },
+        "play": {
+          "label": "Reproduzir",
+          "description": "Reproduzir"
+        },
+        "pause": {
+          "label": "Pausa",
+          "description": "Pausa"
+        },
+        "decreaseDelay": {
+          "label": "-",
+          "description": "Reduzir o atraso"
+        },
+        "increaseDelay": {
+          "label": "+",
+          "description": "Aumentar o atraso"
+        },
+        "shuffleOrder": {
+          "label": "Embaralhar",
+          "description": "Embaralhar"
+        },
+        "defaultOrder": {
+          "label": "Ordem padrão",
+          "description": "Ordem padrão"
+        },
+        "show": {
+          "label": "Mostra",
+          "description": "Mostrar decodificação"
+        },
+        "hide": {
+          "label": "Ocultar",
+          "description": "Ocultar decodificação"
+        }
+      }
+    },
+    "syllabify": {
+      "answerCheckTooltipPrefix": "$t(interaction.shared.answerCheckTooltipPrefix)"
+    }
+  },
+  "loToolbar": {
+    "notes": {
+      "notesArea": {
+        "button": {
+          "toggle": {
+            "label": "Suas notas",
+            "description": ""
+          }
+        }
+      },
+      "notesBox": {
+        "empty": "Você não abriu nenhuma nota para esta atividade. Clique em <q>Adicionar nova nota</q> para iniciar.",
+        "confirmation": "Tem certeza de que quer apagar todas as notas desta atividade?",
+        "button": {
+          "new": {
+            "label": "Adicionar nova nota",
+            "description": "Abrir nova nota"
+          },
+          "send": {
+            "label": "Enviar tudo",
+            "description": "Enviar todas as notas"
+          },
+          "print": {
+            "label": "Imprimir tudo",
+            "description": "Imprimir todas as notas"
+          },
+          "erase": {
+            "label": "Apagar tudo",
+            "description": "Apagar todas as notas"
+          },
+          "cancel": {
+            "label": "$t(dialog.shared.button.cancel.label)",
+            "description": "$t(dialog.shared.button.cancel.description)"
+          },
+          "ok": {
+            "label": "$t(contentElements.notes.notesBox.button.erase.label)",
+            "description": "$t(contentElements.notes.notesBox.button.erase.description)"
+          }
+        }
+      },
+      "oneNote": {
+        "defaultName": "Nota sem título 1",
+        "lastEdited": "última edição:",
+        "undefined": "indefinido",
+        "button": {
+          "toggle": {
+            "label": "Opções",
+            "description": ""
+          },
+          "send": {
+            "label": "Enviar",
+            "description": "Enviar nota"
+          },
+          "print": {
+            "label": "Imprimir",
+            "description": "Imprimir nota"
+          },
+          "erase": {
+            "label": "Apagar",
+            "description": "Apagar nota"
+          }
+        }
+      }
+    },
+    "print": {
+      "button": {
+        "label": "",
+        "description": "Imprimir esta atividade"
+      }
+    },
+    "toggleableMedia": {
+      "button": {
+        "toggleTurnOn": {
+          "label": "Prognósticos",
+          "description": "Abrir painel de prognósticos"
+        },
+        "toggleTurnOff": {
+          "label": "Prognósticos",
+          "description": "Abrir painel de prognósticos"
+        }
+      }
+    }
+  },
+  "mediaExpand": {
+    "image": {
+      "button": {
+        "expandTurnOn": {
+          "label": "",
+          "description": "Maximizar imagem"
+        },
+        "expandTurnOff": {
+          "label": "",
+          "description": "Minimizar imagem"
+        }
+      },
+      "dialog": {
+        "button": {
+          "close": {
+            "label": "$t(dialog.shared.button.close.label)",
+            "description": "$t(dialog.shared.button.close.description)"
+          }
+        }
+      }
+    }
+  },
+  "notebook": {
+    "button": {
+      "export": {
+        "label": "Exportar",
+        "description": "Exportar notas"
+      }
+    }
+  },
+  "osSorting": {
+    "category": {
+      "counter": {
+        "description": "Contagem de itens"
+      },
+      "button": {
+        "toggleTurnOn": {
+          "label": "",
+          "description": "Expandir"
+        },
+        "toggleTurnOff": {
+          "label": "",
+          "description": "Minimizar"
+        }
+      }
+    }
+  },
+  "pool": {
+    "carousel": {
+      "button": {
+        "next": {
+          "label": "Próximo",
+          "description": "Mover o agrupamento para a direita"
+        },
+        "previous": {
+          "label": "Anterior",
+          "description": "Mover o agrupamento para a esquerda"
+        }
+      }
+    },
+    "description": {
+      "input": "Escolha entre estas respostas",
+      "order": "Coloque estas respostas em sua posição correta"
+    },
+    "freeControls": {
+      "button": {
+        "handle": {
+          "label": "Arraste para mover o agrupamento de palavras",
+          "description": "Arraste para mover o agrupamento de palavras"
+        },
+        "dock": {
+          "label": "Parar",
+          "description": "Redefinir posição"
+        }
+      }
+    }
+  },
+  "radioAccordion": {
+    "question": "Pergunta {{-enum}}",
+    "openAlert": {
+      "question": "Você está respondendo à pergunta {{-enum}}"
+    }
+  },
+  "tabsPanel": {
+    "enumQuestion": "Pergunta ",
+    "question": "Pergunta {{index}}",
+    "openAlert": {
+      "enumQuestion": "Você está respondendo à pergunta",
+      "question": "$t(tabsPanel.openAlert.enumQuestion) {{index}}."
+    }
+  },
+  "textInput": {
+    "count": {
+      "chars": {
+        "label": "caracteres",
+        "description": "O contador está exibindo o número de caracteres digitados"
+      },
+      "words": {
+        "label": "palavras",
+        "description": "O contador está exibindo o número de palavras digitadas"
+      },
+      "minChars": {
+        "label": "caracteres restantes",
+        "description": "Reduzindo o contador para mostrar quando a contagem mínima de caracteres for atingida"
+      },
+      "minWords": {
+        "label": "palavras restantes",
+        "description": "Reduzindo o contador para mostrar quando a contagem mínima de palavras for atingida"
+      },
+      "maxChars": {
+        "label": "caracteres restantes",
+        "description": "Reduzindo o contador para mostrar quando a contagem máxima de caracteres for atingida"
+      },
+      "maxWords": {
+        "label": "palavras restantes",
+        "description": "Reduzindo o contador para mostrar quando a contagem máxima de palavras for atingida"
+      }
+    }
+  },
+  "userSelection": {
+    "selector": {
+      "type": "Tipo de teste:",
+      "number": "Número de perguntas:"
+    },
+    "button": {
+      "continue": {
+        "label": "Confirmar",
+        "description": "Iniciar as atividades"
+      }
+    }
+  }
+}

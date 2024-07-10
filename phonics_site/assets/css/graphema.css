@@ -1,0 +1,2018 @@
+/*CSS MISION 1*/
+
+
+.nave{
+    position: absolute;
+    width: 320px;
+    height: 213px;
+    background-image: url(../images/mission_1/lesson_1.png);
+    background-repeat: no-repeat;
+    top: 30%;
+    left: 4%
+}
+
+.all_elements{
+    position: absolute;
+ 
+}
+
+.all_phonemas{
+    transition: width 0.5s, height 0.5s;
+}
+
+.all_phonemas:hover{
+    filter: brightness(115%);
+    height: 190px;
+    width: 190px;
+}
+
+.all_phonemas, .all_elements{
+    width: 180px ;
+    height: 180px;
+}   
+
+.container_lesson1{
+    top: 31%;
+    left: 14%;
+}
+
+
+.crater{
+    position: absolute;
+    width: 273px;
+    height: 87px;
+    background-image: url(../images/mission_1/lesson_2.png);
+    background-repeat: no-repeat;
+    top: 59%;
+    left: 26%;
+}
+
+.container_lesson2{
+    top: 50%;
+    left: 28%;
+}
+
+
+.asteroide{
+    position: absolute;
+    width: 165px;
+    height: 62px;
+    background-image: url(../images/mission_1/lesson_3.png);
+    background-repeat: no-repeat;
+    top: 39%;
+    left: 42%;
+
+}
+
+
+.container_lesson3{
+    top: 25%;
+    left: 42%; 
+}
+
+
+
+.estacion{
+    position: absolute;
+    width: 405px;
+    height: 436px;
+    background-image: url(../images/mission_1/lesson_4.png);
+    background-repeat: no-repeat;
+    top: 23%;
+    left: 47%;
+
+   
+}
+
+
+.container_lesson4{
+    top: 26%;
+    left: 57%;
+}
+
+
+
+.vehiculo{
+    position: absolute;
+    width: 312px;
+    height: 178px;
+    background-image: url(../images/mission_1/lesson_5.png);
+    background-repeat: no-repeat;
+    top: 54%;
+    left: 64%;
+}
+
+.container_lesson5{
+    top: 45%;
+    left: 69%;
+}
+
+.asteroide2{
+    background-image: url(../images/mission_1/lesson_6.png);
+    width: 200px;
+    height: 72px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    top: 27%;
+    left: 81%;
+}
+
+.container_lesson6{
+    top: 9%;
+    left: 82%;
+}
+
+.posicion_tricky1{
+    position: absolute; 
+    top: 76%; 
+    left: 76%;
+}
+
+ @media screen and (max-width:1024px){
+    .nave, .asteroide, .crater, .estacion, .vehiculo, .asteroide2{
+       visibility: hidden;
+    }
+    .container_lesson1, .container_lesson2, .container_lesson3, .container_lesson4, .container_lesson5, .container_lesson6, .container_lesson7, .container_lesson8, .container_lesson9, .container_lesson10, .container_lesson11, .container_lesson12, .container_lesson13, .container_lesson14, .container_lesson15, .container_lesson16, .container_lesson17, .container_lesson18, .container_lesson19, .container_lesson20,
+    .container_lesson21, .container_lesson22, .container_lesson23, .container_lesson24, .container_lesson25, .container_lesson26, .container_lesson27, .container_lesson28, .container_lesson29, .container_lesson30, .container_lesson31, .container_lesson32, .container_lesson33, .container_lesson34, .container_lesson35, .container_lesson36, .container_lesson37, .container_lesson38, .container_lesson39, .container_lesson40, 
+    .container_lesson41, .container_lesson42, .container_lesson43, .container_lesson44, .container_lesson45, .container_lesson46, .container_lesson47, .container_lesson48{
+     top: 0;
+     left: 0;
+     margin: 15px;
+     position: static;
+        
+    }
+  
+    .container-fluid{
+        max-width: none;
+        max-height: none;
+      } 
+
+    .astronaut_girl{
+        width: 40%;
+        height: auto;
+      }
+
+      .posicion_tricky1{
+        position: absolute; 
+        top: 62%; 
+        left: 65%;
+    }
+
+}
+
+@media (max-width:1180px){
+      .vehiculo {
+        top: 60%;
+        left: 70%;    
+    }
+    .container_lesson5{
+        left: 80%;
+        top: 52%;
+    }
+    .container_lesson1 {
+        left: 18%;
+    }
+    .estacion{
+        left: 45%
+    }
+    .container_lesson4{
+        left: 60%
+    }
+   
+}
+
+@media (min-width:1366px){
+    .astronaut_girl{
+        width: 40%;
+      }
+
+      .vehiculo {
+        top: 60%;
+        left: 75%;    
+    }
+    .container_lesson5{
+        left: 83%;
+        top: 52%;
+    }
+}
+
+@media (max-width:690px){
+    .posicion_tricky1{
+        top: 83%;
+        left: 54%;
+    } 
+}
+
+/*FIN MISION 1*/
+
+/*INICIO MISION 2*/
+
+.container_lesson7{
+    top: 31%;
+    left: 8%;
+}
+
+.container_lesson8{
+    top: 20%;
+    left: 20%;
+}
+
+.container_lesson9{
+    top: 33%;
+    left: 35%;
+}
+
+.container_lesson10{
+    top: 16%;
+    left: 46%;
+}
+
+.container_lesson11{
+    top: 33%;
+    left: 57%;
+}
+
+.container_lesson12{
+    top: 15%;
+    left: 69%;
+}
+
+.container_lesson13 {
+    top: 30%;
+    left: 81%;
+}
+
+.posicion_blending1{
+    display:inline-block;
+    position: absolute; 
+    top: 76%;
+    left: 51%;
+}
+
+.mision2_1{
+    position: absolute;
+    width: 43%;
+    height: 89%;
+    background-image: url(../images/mission_2/lesson_7_a.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 14%;
+    left: 0;
+}
+
+.mision2_2{
+    position: absolute;
+    width: 11%;
+    height: 31%;
+    background-image: url(../images/mission_2/lesson_7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 23%;
+    left: 7%;
+}
+
+.mision2_3{
+    position: absolute;
+    width: 9%;
+    height: 28%;
+    background-image: url(../images/mission_2/lesson_8.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 13%;
+    left: 20%;
+}
+
+.mision2_4{
+    position: absolute;
+    width: 16%;
+    height: 66%;
+    background-image: url(../images/mission_2/lesson_9.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 12%;
+    left: 31%;
+}
+
+.mision2_5{
+    position: absolute;
+    width: 14%;
+    height: 67%;
+    background-image: url(../images/mission_2/lesson_10.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 13%;
+    left: 43%;
+}
+
+.mision2_6{
+    position: absolute;
+    width: 22%;
+    height: 37%;
+    background-image: url(../images/mission_2/lesson_11.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 27%;
+    left: 51%;
+}
+
+.mision2_7{
+    position: absolute;
+    width: 16%;
+    height: 43%;
+    background-image: url(../images/mission_2/lesson_12.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 8%;
+    left: 66%;
+}
+
+.mision2_8{
+    position: absolute;
+    width: 13%;
+    height: 31%;
+    background-image: url(../images/mission_2/lesson_13.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 17%;
+    left: 80%;
+}
+
+.blending_1{
+    position: absolute;
+    width: 17%;
+    height: 32%;
+    background-image: url(../images/mission_2/blend_1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 70%;
+    left: 47%;
+    cursor: pointer;
+}
+.blendingSign{
+    position: absolute;
+    top: -16px;
+    left: 36px;
+}
+
+@media (max-width:1366px){
+    .container_lesson7 {
+        top:50%;
+        left: 6%;
+    }
+    .container_lesson8 {
+        top: 45%;
+        left: 20%;
+
+    }
+    .container_lesson9 {
+        top: 53%;
+        left: 35%;
+    
+    }
+    .container_lesson10 {
+        top: 40%;
+        left: 46%
+    }
+    
+    .container_lesson11 {
+        top: 55%;
+        left: 59%;
+    }
+    .container_lesson12 {
+        top: 38%;
+        left: 69%;
+    }
+    .container_lesson13 {
+        top: 27%;
+        left: 81%;
+    }
+
+
+    .mision2_1{
+        height: 60%;
+        top:45%
+    }
+    .mision2_2 {
+        height: 20%;
+        top: 51%
+    }
+    .mision2_3 {
+        height: 18%;
+        top: 45%
+    }
+    .mision2_4{
+        height: 41%;
+        top:44%;
+    }
+    .mision2_5{
+        height: 39%;
+        top: 43%;
+    }
+    .mision2_6{
+        height: 25%;
+        top: 53%;
+    }
+    .mision2_7{
+        height: 29%;
+        top: 36%;
+    }
+    .mision2_8{
+        height: 21%;
+        top: 26%;
+    }
+    .blending_1 {  
+        height: 33%;
+        top: 81%;
+    }
+
+    .posicion_blending1 {
+        top:84%;
+    }
+
+    .text_blending1 {
+        font-size: 1.6rem;
+        margin-left: -20%;
+    }
+}
+
+
+@media (max-width:1180px){
+    .mision2_1{
+        height: 51%;
+        top: 52%;
+    }
+
+    .mision2_2{
+        height: 17%;
+        top: 57%;
+    }
+
+    .mision2_3{
+        height:16%;
+        top: 52%;
+    }
+    .mision2_4{
+        height: 36%;
+        top: 53%;
+    }
+    .mision2_5{
+        height:34%;
+        top: 52%;
+    }
+    .mision2_6{
+        height:25%;
+        top: 55%;
+    }
+
+    .mision2_7{
+        height:29%;
+        top: 40%;
+    }
+
+    .mision2_8{
+        height:21%;
+        top: 28%;
+    }
+
+    .blending_1{
+        height: 33%;
+        top: 70%;
+        width: 25%;
+    }
+
+    .posicion_blending1 {
+        top: 82%;
+        left: 50%;
+    }
+
+    .text_blending1 {
+        top: 83%;
+        left: 50%;
+    }
+}
+
+@media (max-width:768px){
+    .blending_1{
+        top: 73%;
+        left: 49%;
+        height: 25%;
+    }
+
+    .text_blending1 {
+        margin-left: -257%;
+        margin-top: -37%;
+    }
+
+    
+}
+
+@media (max-width:1024px){
+    .mision2_1, .mision2_2, .mision2_3, .mision2_4, .mision2_5, .mision2_6, .mision2_7, .mision2_8, .mision2_9{
+        display: none;
+    }
+    .blendingSign {
+        position: absolute;
+        top: -44px;
+        left: 69px;
+    }
+
+}
+
+/*FIN CSS MISION 2*/
+
+
+/*INICIO CSS MISION 3*/
+
+.container_lesson14 {
+    top: 20%;
+    left: 2%;
+}
+.container_lesson15 {
+    top: 45%;
+    left: 17%;
+}
+.container_lesson16 {
+    top: 28%;
+    left: 34%;
+}
+.container_lesson17 {
+    top: 55%;
+    left: 45%;
+}
+
+.container_lesson18 {
+    top: 58%;
+    left: 63%;
+}
+.container_lesson19 {
+    top: 26%;
+    left: 70%;
+}
+.container_lesson20 {
+    top: 8%;
+    left: 86%;
+}
+
+.mision3_1{
+    position: absolute;
+    width: 14%;
+    height: 49%;
+    background-image: url(../images/mission_3/lesson_14.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top:15%;
+    left: 0;
+}
+
+.mision3_2{
+    position: absolute;
+    width: 26%;
+    height: 44%;
+    background-image: url(../images/mission_3/lesson_15.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 40%;
+    left: 6%
+}
+
+.mision3_3{
+    position: absolute;
+    width: 27%;
+    height: 82%;
+    background-image: url(../images/mission_3/lesson_16.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: -3%;
+    left: 23%
+}
+
+.mision3_4{
+    position: absolute;
+    width: 28%;
+    height:48%;
+    background-image: url(../images/mission_3/lesson_17.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    top: 49%;
+    left: 38%;
+}
+
+.mision3_5{
+    position: absolute;
+    width: 16%;
+    height: 34%;
+    background-image: url(../images/mission_3/lesson_18.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 60%;
+    left: 60%
+}
+.mision3_6{
+    position: absolute;
+    width: 19%;
+    height: 60%;
+    background-image: url(../images/mission_3/lesson_19.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 25%;
+    left: 68%;
+}
+.mision3_7{
+    position: absolute;
+    width: 17%;
+    height: 70%;
+    background-image: url(../images/mission_3/lesson_20.png);
+    background-repeat: no-repeat;
+    background-size: 99%;
+    top: 2%;
+    left: 83%;
+}
+
+.blending2{
+    background-image: url(../images/mission_3/blend_2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 20%;
+    height: 40%;
+    cursor: pointer;
+    position: absolute;
+    top: 64%;
+    right:0;
+   
+  }
+
+.text_blending2{
+    color: #590090;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 22%;
+    position: relative;
+    font-size: 2.1em;
+    filter: brightness(2);
+
+
+}
+
+@media (max-width:1366px){
+    .container_lesson14 {
+        top: 15%;
+    }
+    .container_lesson15 {
+        top: 32%;
+
+    }
+    .container_lesson16 {
+        top: 12%;
+        left: 32%;
+    
+    }
+    .container_lesson17 {
+        top: 33%;
+        left: 43%
+    }
+    
+    .container_lesson18 {
+        top: 44%;
+        left: 59%;
+    }
+    .container_lesson19 {
+        top: 18%;
+        left: 69%;
+    }
+    .container_lesson20 {
+        top: 3%;
+        left: 83%;
+    }
+
+
+
+    .mision3_2{
+        width: 28%;
+        top:30%
+    }
+    .mision3_4{
+        top:33%
+    }
+    .mision3_5{
+        top: 50%;
+        left: 58%;
+    }
+    .mision3_6{
+        left:68%;
+        top: 19%;
+    }
+    .blending2 {    
+        /* margin-top: 45%; */
+        top:77%;
+        /* margin-left: 66.7%; */
+    }
+    .text_blending2{
+        font-size: 1.4rem;
+        margin-top: 18%;
+    }
+}
+
+
+@media (max-width:1180px){
+    .mision3_2{
+        width: 28%;
+        top: 27%;
+    }
+
+    .mision3_3{
+        top: 1%;
+    }
+    .mision3_4{
+        top:31%
+    }
+    .mision3_5{
+        top: 50%;
+        left: 58%;
+    }
+    .mision3_6{
+        left:69%;
+        top: 17%;
+    }
+
+    .text_blending2{
+        font-size: 1.3rem;
+    }
+    .blending2 {   
+        top: 80%; 
+        /* margin-top: 55%; */
+    }
+}
+
+@media (max-width:1024px){
+    .mision3_1, .mision3_2, .mision3_3, .mision3_4, .mision3_5, .mision3_6, .mision3_7{
+        display: none;
+    }
+
+
+    .text_blending2{
+        margin-top: 14%;
+    }
+
+    .blending2{
+        width: 25%;
+        top: 69%;
+    }
+}
+
+@media (max-width:768px){
+    .blending2{
+        top: 73%;
+        width: 30%;
+    }
+
+    .text_blending2{
+        margin-top: 0%;
+    }
+}
+
+/*FIN MISION 3*/
+
+
+/*INICIO CSS MISION 4*/
+
+.container_lesson21 {
+    top: 34%;
+    left: 8%;
+}
+
+.container_lesson22 {
+    top: 19%;
+    left: 20%;
+}
+
+.container_lesson23 {
+    top: 34%;
+    left: 33%;
+}
+
+.container_lesson24 {
+    top: 0%;
+    left: 36%;
+}
+
+.container_lesson25 {
+    top: 17%;
+    left: 46%;
+}
+
+.container_lesson26 {
+    top: 49%;
+    left: 56%;
+}
+
+.container_lesson27 {
+    top: 18%;
+    left: 69%;
+}
+
+
+.posicion_tricky2{
+    display:inline-block;
+    position: absolute; 
+    top: 74%;
+    left: 52%;
+}
+
+.posicion_blending3{
+    display:inline-block;
+    position: absolute; 
+    top: 79%;
+    left: 75%;
+}
+
+.mision4_1{
+    position: absolute;
+    width: 22%;
+    height: 37%;
+    background-image: url(../images/mission_4/lesson_20.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 26%;
+    left: 2%;
+}
+
+.mision4_2{
+    position: absolute;
+    width: 13%;
+    height: 25%;
+    background-image: url(../images/mission_4/lesson_21.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 15%;
+    left: 18%;
+}
+
+.mision4_3{
+    position: absolute;
+    width: 11%;
+    height: 24%;
+    background-image: url(../images/mission_4/lesson_23.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 16%;
+    left: 45%;
+}
+
+.mision4_4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 13%;
+    height: 27%;
+    background-image: url(../images/mission_4/tricky_2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 68%;
+    left: 50%;
+    cursor: pointer;
+}
+
+.mision4_5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 13%;
+    height: 26%;
+    background-image: url(../images/mission_4/blend_3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 70%;
+    left: 70%;
+    cursor: pointer;
+}
+.text_blending3{
+    margin-top: 40%;
+    margin-left: -32%;
+
+}
+.tricky3{   
+    margin-left: -85%;
+}
+
+
+
+
+@media (max-width:1366px){
+    .container_lesson21 {
+        top: 39%;
+        left:6%;
+    }
+    .container_lesson22 {
+        top: 23%;
+        left:18%;
+
+    }
+    .container_lesson23 {
+        top: 45%;
+        left: 32%;
+    
+    }
+    .container_lesson24 {
+        top: 0%;
+        left: 32%
+    }
+    
+    .container_lesson25 {
+        top: 20%;
+        left: 44%;
+    }
+    .container_lesson26 {
+        top: 49%;
+        left: 56%;
+    }
+    .container_lesson27 {
+        top: 18%;
+        left: 69%;
+    }
+
+
+
+    .mision4_1{
+       height:25%;
+       top:36%;
+    }
+    .mision4_2{
+        height:17%;
+        top:26%;
+    }
+    .mision4_3{
+        height:16%;
+        top:23%;
+    }
+    .mision4_4{
+        height:18%;
+        top:75%;
+    }
+
+    .mision4_5{
+        height:20%;
+        top:81%;
+    }
+
+    .trickySign{
+        font-size: 2rem;
+    }
+
+    .blendingSign{
+        font-size: 1.8rem;
+    }
+ }
+
+
+
+@media (max-width:1180px){
+    .container_lesson21 {
+        top: 39%;
+        left:6%;
+    }
+    .container_lesson22 {
+        top: 23%;
+        left:18%;
+
+    }
+    .container_lesson23 {
+        top: 45%;
+        left: 32%;
+    
+    }
+    .container_lesson24 {
+        top: 0%;
+        left: 32%
+    }
+    
+    .container_lesson25 {
+        top: 20%;
+        left: 44%;
+    }
+    .container_lesson26 {
+        top: 49%;
+        left: 56%;
+    }
+    .container_lesson27 {
+        top: 18%;
+        left: 69%;
+    }
+
+    .mision4_1{
+       height:20%;
+       top:41%;
+    }
+    .mision4_2{
+        height:13%;
+        top:29%;
+    }
+    .mision4_3{
+        height:13%;
+        top:28%;
+    }
+    .mision4_4{
+        height:16%;
+        top:79%;
+    }
+
+    .mision4_5{
+        height:14%;
+        top:87%;
+    }
+
+    .trickySign{
+        font-size: 1.8rem;
+    }
+
+    .blendingSign{
+        font-size: 1.6rem;
+    }
+    .text_blending3{
+        margin-top: 40%;
+        margin-left: -46%;
+     }
+}
+
+@media (max-width:1024px){
+    .mision4_1, .mision4_2, .mision4_3{
+        display: none;
+    }
+
+    .mision4_4{
+        width: 20%;
+
+    }
+    .mision4_5{
+        width: 20%;
+
+    }
+
+    .text_blending3{
+        margin-left: -60%;
+     }
+}
+
+@media (max-width:780px){
+    .blending2{
+        top: 94%; 
+        height: 8%;
+        margin-top: 0%;
+    }
+
+    .text_blending2{
+        margin-top: 0%;
+    }
+}
+
+
+/*FIN MISION 4*/
+
+
+/*INICIO MISION 5*/
+.container_lesson28 {
+    top: 62%;
+    left: 15%;
+    z-index: 3;
+}
+
+.container_lesson29 {
+    top: 44%;
+    left: 30%;
+    z-index: 3;
+}
+
+.container_lesson30 {
+    top: 34%;
+    left: 42%;
+}
+
+.container_lesson31 {
+    top: 69%;
+    left: 55%;
+}
+
+.container_lesson32 {
+    top: 34%;
+    left: 65%;
+}
+
+.container_lesson33 {
+    top: 11%;
+    left: 77%;
+}
+
+.posicion_tricky3{
+    display: inline-block;
+    position: absolute;
+    top: 33%;
+    left: 85%;
+}
+
+.posicion_blending4{
+    position: absolute; 
+    top: 89%; 
+    left: 76%;
+}
+
+.mision5_1{
+    width: 30%;
+    height: 31.5%;
+    background-image: url(../images/mission_5/lesson_28.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 71%;
+    left: 0;
+    position: absolute;
+    z-index: 2;
+}
+
+.mision5_2{   
+    width: 26%;
+    height: 90%;
+    top: 53%;
+    left: 17%;
+    background-image: url(../images/mission_5/lesson_29.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+.mision5_3{
+    width: 22%;
+    height: 76%;
+    top: 50%;
+    left: 36%;
+    background-image: url(../images/mission_5/lesson_30.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+}
+
+
+.mision5_4{
+    width: 27%;
+    height: 30%;
+    top: 85%;
+    left: 46%;
+    background-image: url(../images/mission_5/lesson_31.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+}
+
+.mision5_5{
+    width: 23%;
+    height: 30%;
+    top: 50%;
+    left: 58%;
+    background-image: url(../images/mission_5/lesson_32.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+}
+.mision5_6{
+    width: 18%;
+    height: 10%;
+    top: 27%;
+    left: 74%;
+    background-image: url(../images/mission_5/lesson_33.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+}
+
+.tricky_m5{
+    background-image: url(../images/mission_5/tricky_3.png);
+    position: absolute;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 30%;
+    top: 85%;
+    left: 80%;
+}
+
+
+.img_blending4{
+    background-image: url(../images/mission_5/blending_4.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 400px;
+    height:100px;
+    position: relative;
+    left: -10%;
+}
+
+.blendingSign4{
+    font-size: 2.5rem;
+    padding: 8px;
+    color: rgb(105, 5, 100);
+    filter: brightness(2);
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    top: -16px;
+    left: 115px;
+ }
+
+ .burbuja{
+    width: 220px;
+    height: 220px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 100%;
+    left: 21%;
+    top: -176%;
+ }
+ .ubicaciontxt{
+    margin-top:75px;
+ }
+
+ .burbuja_tricky{
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 100px;
+    width: 100%;
+    height: 100% 
+ }
+ 
+ @media (max-width:1400px){
+    .img_blending4 {
+        width: 320px;
+        height: 80px;
+      
+    }
+ }
+
+ @media (max-width:1366px){
+    .img_blending4 {
+        width: 300px;
+        height: 100px;
+        left: 7%;
+    }
+      
+    .mision5_6{
+        display: none;
+    }
+ }
+
+ @media (max-width:1180px){
+    .container_lesson28{ 
+        left: 11%;  
+    }
+    .container_lesson29 {
+        top: 42%;
+        left: 23%;
+    }
+
+    .img_blending4 {
+        width: 250px;
+        height: 80px;
+        left: 7%;
+    }
+    .blendingSign4{
+        left: 22px;
+    }
+    .burbuja{
+        width: 180px;
+        height: 180px;
+        
+     }
+     .ubicaciontxt{
+        margin-top:48px;
+     }
+}
+
+ @media (max-width:768px){
+    .img_blending4 {
+        width: 250px;
+        left: -35%;
+    }
+}
+
+ @media (max-width:1024px){
+    .mision5_1, .mision5_2, .mision5_3, .mision5_4,.mision5_5, .mision5_6{
+        display: none;
+    }
+    .img_blending4 {
+        width: 220px;
+        height: 80px;
+        left: -19%;
+
+    }
+    .posicion_tricky3{
+        top: 25%;
+    
+    }
+    .burbuja{
+        width: 140px;
+        height: 140px;
+        top: -136%;
+    }
+    .blendingSign4 {
+        font-size: 1.5em;
+    }
+    .burbuja_tricky{
+        
+        width: 120px;
+        height: 120px; 
+     }
+ }
+
+ @media (max-width:483px){
+    .posicion_tricky3 {
+        left: 63%;
+    }
+    .posicion_blending4 {
+        top: 98%;
+        left: 67%;
+ }
+ .img_blending4{
+    width: 100px;
+ }
+}
+
+
+
+/*FIN MISION 5*/
+
+/*INICIO MISION 6*/
+
+.square{
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px;
+    border-radius: 15px;
+    /*box-shadow: 3px 3px 6px 1px #2e39b0;*/
+}
+
+.container_lesson34 {
+    top: 28%;
+    left: 8%;
+}
+
+.container_lesson35 {
+    top: 9%;
+    left: 21%;
+}
+
+
+.container_lesson36 {
+    top: 33%;
+    left: 32%;
+}
+
+.container_lesson37 {
+    top: 19%;
+    left: 45%;
+}
+
+.container_lesson38 {
+    top: 32%;
+    left: 56%;
+}
+
+.container_lesson39 {
+    top: 12%;
+    left: 68%;
+}
+
+.posicion_blending5{
+    position: absolute; 
+    top: 73%;
+    left: 76%;
+}
+
+.mision6_1{
+    position: absolute;
+    width: 13%;
+    height: 43%;
+    background-image: url(../images/mission_6/lesson_34.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 14%;
+    left: 7%;
+}
+
+.mision6_2{
+    position: absolute;
+    width: 13%;
+    height: 34%;
+    background-image: url(../images/mission_6/lesson_35.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 3%;
+    left: 20%;
+}
+
+.mision6_3{
+    position: absolute;
+    width: 39%;
+    height: 88%;
+    background-image: url(../images/mission_6/lesson_36.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 0%;
+    left: 30%;
+}
+
+.mision6_4{
+    position: absolute;
+    width: 14%;
+    height: 37%;
+    background-image: url(../images/mission_6/lesson_39.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 2%;
+    left: 66%;
+}
+
+.mision6_5{
+    position: absolute;
+    width: 30%;
+    height: 27%;
+    background-image: url(../images/mission_6/blending_5.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 63%;
+    left: 56%;
+}
+
+.blendingSign5{
+    top: 30%;
+    left: 24%;
+}
+
+@media (max-width: 1366px){
+    .container_lesson34 {
+        top: 38%;
+        left:6%;
+    }
+    .container_lesson35 {
+        top: 17%;
+        left:18%;
+
+    }
+    .container_lesson36 {
+        top: 45%;
+        left: 30%;
+    
+    }
+    .container_lesson37 {
+        top: 32%;
+        left: 42%
+    }
+    
+    .container_lesson38 {
+        top: 46%;
+        left: 56%;
+    }
+
+    .container_lesson39 {
+        top: 20%;
+        left: 66%;
+    }
+    .mision6_1{
+       height:30%;
+       top:30%;
+    }
+    .mision6_2{
+        height:24%;
+        top:16%;
+    }
+    .mision6_3{
+        height:61%;
+        top:25%;
+    }
+    .mision6_4{
+        height:27%;
+        top:16%;
+    }
+
+    .mision6_5{
+        height:19%;
+        top:73%;
+    }
+
+    .blendingSign5{
+        font-size: 1.8rem;
+        top:22%;
+        left:24%;
+    }
+ }
+
+ @media (max-width:1180px){
+    .container_lesson34 {
+        top: 38%;
+        left:6%;
+    }
+    .container_lesson35 {
+        top: 17%;
+        left:18%;
+
+    }
+    .container_lesson36 {
+        top: 45%;
+        left: 30%;
+    
+    }
+    .container_lesson37 {
+        top: 32%;
+        left: 42%
+    }
+    
+    .container_lesson38 {
+        top: 46%;
+        left: 56%;
+    }
+
+    .container_lesson39 {
+        top: 20%;
+        left: 66%;
+    }
+    .mision6_1{
+       height:30%;
+       top:30%;
+    }
+    .mision6_2{
+        height:24%;
+        top:16%;
+    }
+    .mision6_3{
+        height:61%;
+        top:25%;
+    }
+    .mision6_4{
+        height:27%;
+        top:16%;
+    }
+
+    .mision6_5{
+        height:19%;
+        top:73%;
+    }
+
+    .blendingSign5{
+        font-size: 1.8rem;
+        top:22%;
+        left:24%;
+    }
+
+}
+
+@media (max-width:1024px){
+    .mision6_1, .mision6_2, .mision6_3, .mision6_4{
+        display: none;
+    }
+}
+
+@media (max-width:780px){
+
+    .mision6_5{
+        width:43%;
+        height:25%;
+        top:73%;
+    }
+    .blendingSign5{
+        font-size: 1.6rem;
+        top:3%;
+        left:19%;
+    }
+
+}
+
+
+@media (max-width:735px){
+
+    .mision6_5{
+        top:58%;
+    }
+
+}
+
+
+@media (max-width:690px){
+
+    .mision6_5{
+        top: 63%;
+        height: 10%;
+        right: 6%;
+        left: auto;
+    }
+    .blendingSign5{
+        top: 9%;
+    }
+
+}
+
+
+/*FIN MISION 6*/
+
+/*INICIO MISION 7*/
+
+.container_lesson40 {
+    top: 40%;
+    left: 6%;
+}
+
+.container_lesson41 {
+    top: 58%;
+    left: 21%;
+}
+
+.container_lesson42 {
+    top: 62%;
+    left: 40%;
+}
+
+.container_lesson43 {
+    top: 39%;
+    left: 55%;
+}
+
+.posicion_tricky4{
+    display:inline-block;
+    position: absolute; 
+    top: 34%;
+    left: 76%;
+}
+
+.posicion_blending6{
+    position: absolute; 
+    top: 64%;
+    left: 68%;
+}
+
+.blendingSign6{
+    width: auto;
+    position: static;
+}
+
+.trickySign4{
+    width: auto;
+    display: inline-block;
+    font-size: 2.5rem;
+    padding: 8px;
+    color: rgb(105, 5, 100);
+    font-weight: bold;
+    line-height: 41px;
+    text-align: center;
+    cursor: pointer;
+    width: auto;
+}  
+
+@media (max-width:1366px){
+    .trickySign4{
+        font-size: 1.8rem;
+    }
+    .blendingSign6{
+        font-size: 1.8rem;
+    }
+
+}
+
+@media (max-width:1180px){
+    .trickySign4{
+        font-size: 1.6rem;
+    }
+    .blendingSign6{
+        font-size: 1.6rem;
+    }
+
+}
+
+@media (max-width:780px){
+    .posicion_tricky4{
+        bottom: 20%;
+        top: auto;
+        left: auto;
+        right: 5%;
+    }
+    .posicion_blending6{
+        bottom: 0%;
+        top: auto;
+        left: auto;
+        right: 5%;
+    }
+
+}
+
+
+
+
+/*FIN MISION 7*/
+
+/*INICIO MISION 8*/
+.container_lesson44 {
+    top: 41%;
+    left: 8%;
+}
+
+.container_lesson45 {
+    top: 25%;
+    left: 20%;
+}
+
+.container_lesson46 {
+    top: 42%;
+    left: 33%;
+}
+
+.container_lesson47 {
+    top: 28%;
+    left: 45%;
+}
+
+.container_lesson48 {
+    top: 27%;
+    left: 58%;
+}
+
+.posicion_tricky5{
+    display:inline-block;
+    position: absolute; 
+    top: 56%;
+    left: 77%;
+}
+
+.mision8_1{
+    position: absolute;
+    width: 11%;
+    height: 39%;
+    background-image: url(../images/mission_8/lesson_44.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 30%;
+    left: 7%;
+}
+
+.mision8_2{
+    position: absolute;
+    width: 11%;
+    height: 49%;
+    background-image: url(../images/mission_8/lesson_46.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 29%;
+    left: 32%;
+}
+
+.mision8_3{
+    position: absolute;
+    width: 9%;
+    height: 44%;
+    background-image: url(../images/mission_8/lesson_47.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 16%;
+    left: 46%;
+}
+
+.mision8_4{
+    position: absolute;
+    width: 11%;
+    height: 48%;
+    background-image: url(../images/mission_8/lesson_48.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 10%;
+    left: 58%;
+}
+
+.mision8_5{
+    position: absolute;
+    width: 16%;
+    height: 48%;
+    background-image: url(../images/mission_8/tricky_6.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 46%;
+    left: 72%;
+}
+
+.mision8_6{
+    position: absolute;
+    width: 22%;
+    height: 40%;
+    background-image: url(../images/mission_8/blending_7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    top: 3%;
+    left: 65%;
+}
+
+.blendingSign7{
+    cursor: pointer;
+    position: absolute;
+    width: auto;
+    top: 34%;
+    right: 7%;
+    left: auto;
+}
+
+.trickySign5{
+    width: auto;
+    display: inline-block;
+    font-size: 2.5rem;
+    padding: 8px;
+    color: rgb(105, 5, 100);
+    font-weight: bold;
+    line-height: 41px;
+    text-align: center;
+    cursor: pointer;
+    position: absolute;
+    top: 24%;
+    right: 19%;
+}
+
+@media (max-width:1366px){
+    .container_lesson44 {
+        top: 34%;
+        left:5%;
+    }
+    .container_lesson45 {
+        top: 18%;
+        left:20%;
+
+    }
+    .container_lesson46 {
+        top: 35%;
+        left: 30%;
+    
+    }
+    .container_lesson47 {
+        top: 21%;
+        left: 44%
+    }
+    
+    .container_lesson48 {
+        top: 14%;
+        left: 57%;
+    }
+
+
+    .mision8_1{
+       height:30%;
+       top:30%;
+    }
+    .mision8_2{
+        height:36%;
+        top:29%;
+    }
+    .mision8_3{
+        height:31%;
+        top:16%;
+    }
+    .mision8_4{
+        height:33%;
+        top:6%;
+    }
+
+    .mision8_5{
+        height:24%;
+        top:46%;
+    }
+
+    .mision8_6{
+        height:27%;
+        top:0%;
+    }
+
+    .trickySign5{
+        font-size: 2rem;
+        top:24%;
+        right:14%;
+    }
+
+    .blendingSign7{
+        font-size: 1.8rem;
+        top:32%;
+        right:4%;
+    }
+ }
+
+
+
+@media (max-width:1180px){
+    .container_lesson44 {
+        top: 33%;
+        left:3%;
+    }
+    .container_lesson45 {
+        top: 18%;
+        left:17%;
+
+    }
+    .container_lesson46 {
+        top: 34%;
+        left: 28%;
+    
+    }
+    .container_lesson47 {
+        top: 19%;
+        left: 41%
+    }
+    
+    .container_lesson48 {
+        top: 11%;
+        left: 56%;
+    }
+
+
+    .mision8_1{
+       height:24%;
+       top:30%;
+    }
+    .mision8_2{
+        height:30%;
+        top:29%;
+    }
+    .mision8_3{
+        height:27%;
+        top:16%;
+    }
+    .mision8_4{
+        height:29%;
+        top:5%;
+    }
+
+    .mision8_5{
+        height:21%;
+        top:46%;
+    }
+
+    .mision8_6{
+        height:23%;
+        top:0%;
+    }
+
+    .trickySign5{
+        font-size: 1.6rem;
+        top:19%;
+        right:16%;
+    }
+
+    .blendingSign7{
+        font-size: 1.6rem;
+        top:29%;
+        right:4%;
+    }
+}
+
+@media (max-width:1024px){
+    .mision8_1, .mision8_2, .mision8_3, .mision8_4{
+        display: none;
+    }
+
+    .mision8_5{
+        height: 26%;
+        bottom: 0%;
+        top: auto;
+        left: auto;
+        right: 27%;
+    }
+    .mision8_6{
+        height: 31%;
+        bottom: 0%;
+        top: auto;
+        left: auto;
+        right: 5%;
+    }
+
+    .trickySign5 {
+        top: 18%;
+        right: 14%;
+    }
+
+    .blendingSign7{
+        top: 25%;
+        right: 0%;
+    }
+
+}
+
+@media (max-width:780px){
+    .mision8_5{
+        height: 37%;
+        right: 33%;
+        width: 23%;
+    }
+    .mision8_6{
+        height: 35%;
+        width: 26%;
+    }
+
+    .trickySign5 {
+        top: 24%;
+        right: 19%;
+    }
+
+    .blendingSign7{
+        top: 25%;
+        right: 2%;
+    }
+
+}
+/*FIN MISION 8*/

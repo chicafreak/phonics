@@ -1,0 +1,123 @@
+-------------------------------------------
+Richmond Responsive Design Pack - Preschool
+===========================================
+
+* richmond-rdp-preschool-5.1.2 (30-Sep-23)
+  - [Tech] RDP updated to richmond-rdp-5.1.2
+
+* richmond-rdp-preschool-5.1.1 (21-Sep-23)
+  - [Tech] RDP updated to richmond-rdp-5.1.1
+
+* richmond-rdp-preschool-5.1.0 (4-Sep-23)
+  - [Tech] RDP updated to richmond-rdp-5.1.0
+
+* richmond-rdp-preschool-4.0.2 (17-May-23)
+  - [Tech] RDP updated to richmond-rdp-5.0.2
+
+* richmond-rdp-preschool-4.0.1 (28-Mar-23)
+  - [Tech] RDP updated to richmond-rdp-5.0.1
+
+* richmond-rdp-preschool-4.0.0 (7-Mar-23)
+  - [Tech] RDP updated to richmond-rdp-5.0.0
+
+* richmond-rdp-preschool-3.0.0 (2-Dec-22)
+  - [Tech] RDP updated to richmond-rdp-4.7.0
+
+* richmond-rdp-preschool-2.5.0 (14-Oct-22)
+  - [Tech] RDP updated to richmond-rdp-4.5.0
+
+* richmond-rdp-preschool-2.4.2 (4-Oct-22)
+  - [Tech] RDP updated to richmond-rdp-4.4.2
+
+* richmond-rdp-preschool-2.4.0 (19-Sep-22)
+  - [Tech] RDP updated to richmond-rdp-4.4.0
+
+* richmond-rdp-preschool-2.3.0 (22-Aug-22)
+  - [Tech] RDP updated to richmond-rdp-4.3.0
+
+* richmond-rdp-preschool-2.2.1 (11-Aug-22)
+  - [Tech] RDP updated to richmond-rdp-4.2.2
+
+* richmond-rdp-preschool-2.2.0 (21-Jul-22)
+  - [Tech] RDP updated to richmond-rdp-4.2.0
+
+* richmond-rdp-preschool-2.1.2 (27-Jun-22)
+  - [Tech] RDP updated to richmond-rdp-4.1.2
+  - RSP-2721: [Feature] OS Boxdrop design adjustments.
+
+* richmond-rdp-preschool-2.1.1 (17-Jun-22)
+  - RSP-2721: [Feature] OS Boxdrop support added.
+  - RSP-3001: [Feature] @gapItemPool--empty behavior moved to the parent DP.
+
+* richmond-rdp-preschool-2.1.0 (3-Jun-22)
+  - [Tech] RDP updated to richmond-rdp-4.1.0
+  - [Bugfix] Pagination hidden for mobile.
+  - RSP-2945: [Feature] IS Catch support added.
+
+* richmond-rdp-preschool-2.0.0 (15-May-22)
+  - [Tech] RDP updated to richmond-rdp-4.0.0
+  - [Tech] CORE classNames changes.
+  - [Tech] Translations updated.
+  - RSP-2944: [Feature] IS Hangman support added.
+
+* richmond-rdp-preschool-1.7.0 (15-Apr-22)
+  - RSP-2884: Add sound effect to Submit Finish dialog.
+
+* richmond-rdp-preschool-1.6.0 (8-Mar-22)
+  - [Tech] RDP updated to richmond-rdp-3.9.0
+
+* richmond-rdp-preschool-1.5.0 (22-Feb-22)
+  - [Tech] RDP updated to richmond-rdp-3.8.0
+
+* richmond-rdp-preschool-1.4.2 (26-Jan-22)
+  - [Tech] RDP updated to richmond-rdp-3.7.2
+
+* richmond-rdp-preschool-1.4.1 (21-Jan-22)
+  - [Tech] RDP updated to richmond-rdp-3.7.1
+
+* richmond-rdp-preschool-1.4.0 (16-Jan-22)
+  - [Tech] RDP updated to richmond-rdp-3.7.0
+
+* richmond-rdp-preschool-1.3 (7-Dec-21)
+  - [Tech] RDP updated to richmond-rdp-3.6
+  - RSP-2683: Feedback text button label changed.
+  - RSP-2658: IC Text Gap LAO prefil min-width.
+  - RSP-2656: New audio to replace the great job feedback.
+
+* richmond-rdp-preschool-1.2.1 (28-Oct-21)
+  - RDP updated to richmond-rdp-3.5.1
+
+* richmond-rdp-preschool-1.2 (20-Oct-21)
+  - RDP updated to richmond-rdp-3.5
+  - RSP-2566: New audios for the submit dialog.
+  - RSP-2512: Annotation tools 2.0
+  - RSP-2513: IM Voice dialog custom design.
+  - RSP-2257: Update text of unsupported recording error message.
+  - RSP-2390: Finish submit on dialog design.
+  - RSP-2400: Export dialog design change.
+  - RSP-2402: Main interaction colour change.
+  - ISP-10861: Specific feedback close translation key.
+
+* richmond-rdp-preschool-1.1.1 (19-Aug-21)
+  - RDP updated to richmond-rdp-3.4.1
+  - RSP-2481: New submit messages for 100% score.
+  - IS Radiobutton Voice updated translations.
+
+* richmond-rdp-preschool-1.1 (11-Aug-21)
+  - Dialog buttons improvements.
+  - Missing spanish translation.
+  - RSP-2397: Print button styles.
+  - RSP-2398: Media queries refactoring.
+  - RSP-2399: Submit dialog sound clips.
+  - RSP-2396: Close button not working on Preschool.
+  - RSP-2403: Pool gaps sorted last.
+  - RSP-2395: Remove the primary button animation and refactor the footer to avoid negative margins.
+  - Remove "Try again" from Sumbit dialog and new content font size.
+  - Annotation tools toggle border.
+  - Safari fixes: Pagination boxmodel & Toolbar font size.
+
+* richmond-rdp-preschool-1.0 (2-Jul-21)
+  - Richmond RDP 3.3.1
+
+* richmond-rdp-preschool-1.0
+  - Initial version.

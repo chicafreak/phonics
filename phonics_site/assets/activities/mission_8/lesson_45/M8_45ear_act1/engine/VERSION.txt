@@ -1,0 +1,9 @@
+versions:
+- commitDate: 2023-11-03 14:23:11 +0000
+  commitedBy: Carlos Rodríguez
+  hash: 8e0c02e6f9aa2b9e96c3d6ba52641f9960f5fc16
+  name: buckminster-42.0.0
+  updateDate: 2023-11-03 14:23:11 +0000
+  updatedBy: Carlos Rodríguez
+  url: //author-engine-production.avallain.net/buckminster-42.0.0/
+  versionTag: null
